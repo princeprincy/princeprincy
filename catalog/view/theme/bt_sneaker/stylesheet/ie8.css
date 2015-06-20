@@ -1,0 +1,12 @@
+.block-homepage .block-1 .bt-more{display:none}
+.block-homepage .block-1:hover .bt-more, .image:hover a.sft_quickshop_icon{display:block}
+.product-info .cart .select_number input[type="text"]{padding-top:14px}
+.wishlist a, .compare a{letter-spacing:-1px}
+.navbar-nav > li > a{line-height:11px}
+table.radio td input[type="radio"]{margin-left:0}
+table.radio tr.highlight td:first-child{width:10px}
+table.radio tr.highlight td:first-child input[type="radio"]{margin-right:10px}
+select{padding:7px 5px 5px}
+.tab-content{top:2px}
+#colorbox table.radio td.label_text{width:150px}
+.navbar-nav > li:hover .menu-title{line-height:11px}

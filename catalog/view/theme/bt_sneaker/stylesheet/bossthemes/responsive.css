@@ -1,0 +1,163 @@
+/*================================================================================ */
+/* 1. Basics & Buttons												3000Themes.com
+/*================================================================================ */
+.content{
+	z-index: 10;
+}	
+/* Bigger then standard 960px (1280px) */
+	@media only screen and (min-width: 1280px) {
+	}
+	/*ipad 2 ngang*/
+	@media only screen and (min-width: 1024px) and (max-width: 1279px) {
+		body{-webkit-text-size-adjust: none;}		
+		.btn{white-space:normal}
+		#header #boss_cart .content{left:auto; right:0;}
+		#header #boss_cart .content > b{background-position:-54px top !important}
+		#column-left + #column-right + #content .product-info .cart .action{overflow:visible}
+		body.touch .boss-featured .product-block:hover .product-actions{opacity:0;}
+		body.touch .boss-featured .product-block:hover{box-shadow: none;}
+		body.touch .boss-featured .product-block:hover .image{border:none}
+		body.touch .boss-featured .product-block:hover .product-meta{border:none}
+		body.touch .boss-featured .product-block:hover .product-actions{border:none; box-shadow:none}
+		body.touch .image:hover a.cs_img b{height:0; width:0}
+		
+	}
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) {
+		
+	}
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 1024px) {	
+		body{-webkit-text-size-adjust: none; }
+		body.touch a.sft_quickshop_icon{display:none!important}
+		
+	}
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 1023px) {
+		.box-heading{font-size:18px}
+		.header-right{float:right}
+		.col-md-6 .box.latest .box-product .name{clear:both}
+		form.contact-form input[type="text"], form.contact-form textarea{width:80%}
+		.btn{white-space:normal}
+		#footer .column{margin-bottom:20px}
+		#column-left + #column-right + #content .product-list .compare, #column-left + #column-right + #content .product-list .wishlist{float:left; margin-left:0; margin-right:20px}
+		#column-left + #column-right + #content .product-info .quantily_info{float:none; margin-bottom:10px}
+		.login-content .right input[type="text"], .login-content .right input[type="password"]{width:90%}
+		form.register td input[type="text"], form.register td input[type="password"], form.register td select{width:85%}
+		.product-filter .sort select, .product-filter .limit select{width:150px;}
+		body.touch .boss-featured .product-block:hover .product-actions{opacity:0;}
+		body.touch .boss-featured .product-block:hover{box-shadow: none;}
+		body.touch .boss-featured .product-block:hover .image{border:none}
+		body.touch .boss-featured .product-block:hover .product-meta{border:none}
+		body.touch .boss-featured .product-block:hover .product-actions{border:none; box-shadow:none}
+		body.touch .image:hover a.cs_img b{height:0; width:0}
+	}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {
+		#column-left ,#column-right, .cpanelContainer, #cboxNext, #cboxPrevious{display:none!important;}
+		#cboxTitle{text-align:left}
+		#column-left + #content{padding-left:0}
+		#column-right + #content{padding-right:0}
+		#column-left + #column-right + #content{padding-right:0; padding-left:0}
+		.container{padding-left:10px; padding-right:10px}
+		.footer-middle .newletter{margin-bottom:23px}
+		#footer .footer-middle .newletter h3{float:none; display:block; margin:0 0 10px}
+		.footer-middle .payment{text-align:left}
+		#header #search #search-form{display:block!important}
+		.header-center{width:100%}
+		.block-homepage .row > div{padding:0;}
+		.header-right{text-align:center;}
+		#language, #currency{float:none; display:inline-block}
+		#search{float:left; width:100%; margin:26px 0 0 0; text-align:left; overflow:hidden}
+		#header #search a.icon_seach{display:none}
+		#header #search #search-form{position:static}
+		#search-form-bot{
+			background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+			border: medium none;
+			box-shadow: none;
+			padding: 0;
+			width: 100%;
+		}
+		#search-form #search-form-bot .input_key{
+			background: transparent;
+			border: 1px solid #545454;
+			color: #C8C8C8;
+			font-family: 'Advent Pro',sans-serif;
+			font-size: 14px;
+			font-weight: 700;
+			text-transform: uppercase;
+			width: 90%;
+			padding: 0 10px 0 10px;
+		}
+		#search-form #search-form-bot .input_key input{background:none; margin:0; height:35px;color:#c8c8c8; font-family: 'Advent Pro', sans-serif; text-transform:uppercase; font-size:14px; font-weight:700}
+		.button-search{right:0; top:5px; background:url("../../image/icon.png") no-repeat scroll -169px 0; width:26px; height:28px; background-color:transparent!important}
+		#welcome { margin-top: 0;}
+		#boss-login .content{left:0}
+		#header #boss_cart .content{left:auto; right:0}
+		#header #boss_cart .content > b{background-position:-60px top!important}
+		.header-left{margin-top:-52px;}
+		.product-filter{display:none;}
+		.product-filter .sort select, .product-filter .limit select{width:65px}
+		.product-grid{margin:0}
+		.product-list .compare, .product-list .wishlist{float:left; margin-left:0; margin-right: 15px;}
+		.product-list .cart{width:100%; margin-right:0}
+		.pagination{height:100%; line-height:38px;}
+		.pagination .links{margin:0}
+		.product-info .options .box-check{width:100%; margin:0 0 10px}
+		.product-info .cart .action{clear:both}
+		form.contact-form input[type="text"], form.contact-form textarea, form.return-form input[type="text"], .return-opened textarea, .login-content .right input[type="text"], .login-content .right input[type="password"]{width:90%}
+		form.register td input[type="text"], form.register td input[type="password"], form.register td select{width:95%}
+		table.form .checkout-content td input[type='text'], table.form .checkout-content td select, table.form .checkout-content td input[type='password'], textarea, .cart-module .content select, .cart-module .content input[type="text"], .checkout-content table.form td input[type="text"], .checkout-content table.form td select, .checkout-content table.form td input[type="password"]{width:90%;}
+		.image a.cs_img b{display:none}
+		#footer .column{margin-bottom:20px}
+		.footer-middle{border-top:none; margin-top:0}
+		.footer-middle .newletter input.input-new{width:88%}
+		.product-list .left, .product-list .right, .checkout-content .left, .checkout-content .right{width:100%; float:left; padding:0; margin:0 0 20px}
+		.product-info .image{margin-bottom:20px}
+		.product-info input[type="text"], .product-info textarea{width:65%}
+		h2.ta-header.selected{
+			background: url("../../image/icon_htab.png") no-repeat scroll center bottom;
+			color: #0A0A0A;
+			cursor: default;
+			font-family: 'Advent Pro',sans-serif;
+			font-size: 24px;
+			font-weight: 600;
+			margin: 0 auto;
+			padding-bottom: 12px;
+			position: relative;
+			text-align: center;
+			text-decoration: none;
+			text-transform: uppercase;
+			z-index: 10;
+		}
+		.tab-content{top:-6px}
+		.price-new{margin-left:0}
+		.price-old{margin-right:20px}
+		.cart-module .content span.error{margin:10px 0 0}
+		.checkout-content input#button-account{margin-top:10px}
+		.checkout-content .left .password_form{margin-top:37px}
+		.breadcrumb li{margin-right:10px}
+		.breadcrumb li + li{margin-left:0; background-position:0 -1314px}
+		.product-info .left{padding-right:0}
+		#boss_homefilter_tabs0 .home_filter_content{height:auto}
+		.boss_homefilter_tabs .caroufredsel_wrapper { height: 277px !important;}
+}
+	
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {		
+		body{-webkit-text-size-adjust: none; }
+		.boss-featured .box-content .box-item{width:50%}
+		#search-form #search-form-bot .input_key{width:93%}
+		.pagination .links{float:right}
+		.pagination{line-height:43px}
+		.footer-middle .newletter input.input-new {width: 92%;}
+	}
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) { 
+		body{-webkit-text-size-adjust: none;}
+		.pagination .results{float:none}
+		
+	}
+
+

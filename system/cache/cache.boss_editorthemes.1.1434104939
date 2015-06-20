@@ -1,0 +1,1620 @@
+s:124114:"	<div class="cpanelContainer" style="display:none; clear:both;">
+		<div class="boss-themedesign">
+			<div class="cpanel_icon">
+				<span>icon</span>
+			</div> <!-- End .cpanel_icon-->
+			<div class="boss-themedesign-info">
+			<h2>Theme Design</h2>
+			<ul id="bt_category">
+				<li> <!-- Design background -->
+					<span class="expand">Design Background</span>
+					<ul class="design_background"> 
+						<li><h3>Body Background</h3></li>
+												<li><a onclick="addBackground('back_1.png','body')"><img alt="Background" src="image/data/background/back_1.png" /></a></li>
+												<li><a onclick="addBackground('back_2.png','body')"><img alt="Background" src="image/data/background/back_2.png" /></a></li>
+												<li><a onclick="addBackground('back_3.png','body')"><img alt="Background" src="image/data/background/back_3.png" /></a></li>
+												<li><a onclick="addBackground('back_4.png','body')"><img alt="Background" src="image/data/background/back_4.png" /></a></li>
+												<li><a onclick="addBackground('back_5.png','body')"><img alt="Background" src="image/data/background/back_5.png" /></a></li>
+												<li><a onclick="addBackground('back_6.png','body')"><img alt="Background" src="image/data/background/back_6.png" /></a></li>
+												<li><a onclick="addBackground('back_7.png','body')"><img alt="Background" src="image/data/background/back_7.png" /></a></li>
+												<li><a onclick="addBackground('back_8.png','body')"><img alt="Background" src="image/data/background/back_8.png" /></a></li>
+												<li><a onclick="addBackground('back_9.png','body')"><img alt="Background" src="image/data/background/back_9.png" /></a></li>
+												<li><a onclick="addBackground('back_10.png','body')"><img alt="Background" src="image/data/background/back_10.png" /></a></li>
+												<li><a onclick="addBackground('back_11.png','body')"><img alt="Background" src="image/data/background/back_11.png" /></a></li>
+												<li><a onclick="addBackground('back_12.png','body')"><img alt="Background" src="image/data/background/back_12.png" /></a></li>
+												<li><a onclick="addBackground('back_13.png','body')"><img alt="Background" src="image/data/background/back_13.png" /></a></li>
+												<li><a onclick="addBackground('back_14.png','body')"><img alt="Background" src="image/data/background/back_14.png" /></a></li>
+												<li><a onclick="addBackground('back_15.png','body')"><img alt="Background" src="image/data/background/back_15.png" /></a></li>
+											</ul>
+					
+					<ul class="design_background"> 
+						<li><h3>Header Background</h3></li>
+												<li><a onclick="addBackground('back_1.png','header')"><img alt="Background" src="image/data/background/back_1.png" /></a></li>
+												<li><a onclick="addBackground('back_2.png','header')"><img alt="Background" src="image/data/background/back_2.png" /></a></li>
+												<li><a onclick="addBackground('back_3.png','header')"><img alt="Background" src="image/data/background/back_3.png" /></a></li>
+												<li><a onclick="addBackground('back_4.png','header')"><img alt="Background" src="image/data/background/back_4.png" /></a></li>
+												<li><a onclick="addBackground('back_5.png','header')"><img alt="Background" src="image/data/background/back_5.png" /></a></li>
+												<li><a onclick="addBackground('back_6.png','header')"><img alt="Background" src="image/data/background/back_6.png" /></a></li>
+												<li><a onclick="addBackground('back_7.png','header')"><img alt="Background" src="image/data/background/back_7.png" /></a></li>
+												<li><a onclick="addBackground('back_8.png','header')"><img alt="Background" src="image/data/background/back_8.png" /></a></li>
+												<li><a onclick="addBackground('back_9.png','header')"><img alt="Background" src="image/data/background/back_9.png" /></a></li>
+												<li><a onclick="addBackground('back_10.png','header')"><img alt="Background" src="image/data/background/back_10.png" /></a></li>
+												<li><a onclick="addBackground('back_11.png','header')"><img alt="Background" src="image/data/background/back_11.png" /></a></li>
+												<li><a onclick="addBackground('back_12.png','header')"><img alt="Background" src="image/data/background/back_12.png" /></a></li>
+												<li><a onclick="addBackground('back_13.png','header')"><img alt="Background" src="image/data/background/back_13.png" /></a></li>
+												<li><a onclick="addBackground('back_14.png','header')"><img alt="Background" src="image/data/background/back_14.png" /></a></li>
+												<li><a onclick="addBackground('back_15.png','header')"><img alt="Background" src="image/data/background/back_15.png" /></a></li>
+											</ul>
+					
+					<ul class="design_background"> 
+						<li><h3>Footer Background</h3></li>
+												<li><a onclick="addBackground('back_1.png','footer')"><img alt="Background" src="image/data/background/back_1.png" /></a></li>
+												<li><a onclick="addBackground('back_2.png','footer')"><img alt="Background" src="image/data/background/back_2.png" /></a></li>
+												<li><a onclick="addBackground('back_3.png','footer')"><img alt="Background" src="image/data/background/back_3.png" /></a></li>
+												<li><a onclick="addBackground('back_4.png','footer')"><img alt="Background" src="image/data/background/back_4.png" /></a></li>
+												<li><a onclick="addBackground('back_5.png','footer')"><img alt="Background" src="image/data/background/back_5.png" /></a></li>
+												<li><a onclick="addBackground('back_6.png','footer')"><img alt="Background" src="image/data/background/back_6.png" /></a></li>
+												<li><a onclick="addBackground('back_7.png','footer')"><img alt="Background" src="image/data/background/back_7.png" /></a></li>
+												<li><a onclick="addBackground('back_8.png','footer')"><img alt="Background" src="image/data/background/back_8.png" /></a></li>
+												<li><a onclick="addBackground('back_9.png','footer')"><img alt="Background" src="image/data/background/back_9.png" /></a></li>
+												<li><a onclick="addBackground('back_10.png','footer')"><img alt="Background" src="image/data/background/back_10.png" /></a></li>
+												<li><a onclick="addBackground('back_11.png','footer')"><img alt="Background" src="image/data/background/back_11.png" /></a></li>
+												<li><a onclick="addBackground('back_12.png','footer')"><img alt="Background" src="image/data/background/back_12.png" /></a></li>
+												<li><a onclick="addBackground('back_13.png','footer')"><img alt="Background" src="image/data/background/back_13.png" /></a></li>
+												<li><a onclick="addBackground('back_14.png','footer')"><img alt="Background" src="image/data/background/back_14.png" /></a></li>
+												<li><a onclick="addBackground('back_15.png','footer')"><img alt="Background" src="image/data/background/back_15.png" /></a></li>
+											</ul>
+				</li> <!-- End Design background-->
+				
+				<li><!-- Mode Css-->
+					<span class="expand">Mode CSS</span>
+										<ul class="mode_css"> 
+						<li><input type="radio" id="mode_boxed" value="boxed" onclick="changeModeCSS('boxed')" name="b_Mode_CSS"  /> Box</li>
+						<li><input type="radio" id="mode_wide" value="wide" onclick="changeModeCSS('wide')" name="b_Mode_CSS"  checked="checked" /> Wide</li>
+					</ul>
+				</li>
+				
+				<li><!-- product grid view-->
+					<span class="expand">Product Grid View</span>
+										<ul class="mode_css"> 
+						<li><p><input type="radio" id="view_8_24-16-8_8-12-24" value="8,24-16-8,8-12-24" onclick="changeProductView('8','24-16-8','8-12-24');storeTotalStorage('8','24-16-8','8-12-24');" name="b_Layout_Setting"  /> Extra</p></li>
+						<li><p><input type="radio" id="view_6_24-18-12_6-8-12" value="6,24-18-12,6-8-12" onclick="changeProductView('6','24-18-12','6-8-12');storeTotalStorage('6','24-18-12','6-8-12');" name="b_Layout_Setting"  checked="checked" /> Large</p></li>
+						
+						<li><p><input type="radio"  id="view_5_24-19-14_cs5-6-8" value="5,24-19-14,cs5-6-8" onclick="changeProductView('5','24-19-14','cs5-6-8');storeTotalStorage('5','24-19-14','cs5-6-8');" name="b_Layout_Setting"  /> Medium</p></li>
+						
+						<li><p><input type="radio" id="view_4_24-20-16_4-cs5-6" value="4,24-20-16,4-cs5-6" onclick="changeProductView('4','24-20-16','4-cs5-6');storeTotalStorage('4','24-20-16','4-cs5-6');" name="b_Layout_Setting"  /> Small</p></li>
+					</ul>
+				</li>
+				
+				<li><!-- Font setting-->
+					<span class="expand">Font Setting</span>
+					<ul class="accordion_content"> 
+																																												<li><h3>General Fonts</h3>
+								<div class="boss_font">
+									<select id="g_fstyle" name="b_Font_Data[g_fstyle]" onchange="selectedFontStyle('g_fstyle','body,a, div.jGrowl div.jGrowl-notification div.jGrowl-message h3, #search-form #search-form-bot .input_key input')">
+										<option>default</option>
+										<optgroup label="HTML default fonts">
+																																<option value="Arial" >Arial</option>
+																																<option value="Verdana" >Verdana</option>
+																																<option value="Helvetica" >Helvetica</option>
+																																<option value="Lucida Grande" >Lucida Grande</option>
+																																<option value="Trebuchet MS" >Trebuchet MS</option>
+																																<option value="Times New Roman" >Times New Roman</option>
+																																<option value="Tahoma" >Tahoma</option>
+																																<option value="Georgia" >Georgia</option>
+																				</optgroup>
+										<optgroup label="Google fonts">
+																																<option value="Allan" >Allan</option>
+																																<option value="Allerta" >Allerta</option>
+																																<option value="Arvo" >Arvo</option>
+																																<option value="Cabin" >Cabin</option>
+																																<option value="Cardo" >Cardo</option>
+																																<option value="Crimson+Text" >Crimson Text</option>
+																																<option value="Dancing+Script" >Dancing Script</option>
+																																<option value="Droid+Sans" >Droid Sans</option>
+																																<option value="Droid+Serif" >Droid Serif</option>
+																																<option value="Goudy+Bookletter+1911" >Goudy Bookletter 1911</option>
+																																<option value="Josefin+Sans" >Josefin Sans</option>
+																																<option value="Lobster" >Lobster</option>
+																																<option value="Molengo" >Molengo</option>
+																																<option value="Nobile" >Nobile</option>
+																																<option value="PT+Sans" >PT Sans</option>
+																																<option value="Raleway" >Raleway</option>
+																																<option value="Ubuntu" >Ubuntu</option>
+																																<option value="Vollkorn" >Vollkorn</option>
+																				</optgroup>
+									</select>
+								</div>
+								<div class="boss_size">
+									<select id="g_fsize" name="b_Font_Data[g_fsize]" onchange="selectedFontSize('g_fsize','body,a, div.jGrowl div.jGrowl-notification div.jGrowl-message h3, #search-form #search-form-bot .input_key input')">
+																																<option value="default" selected>default</option>
+																																<option value="10px" >10px</option>
+																																<option value="11px" >11px</option>
+																																<option value="12px" >12px</option>
+																																<option value="13px" >13px</option>
+																																<option value="14px" >14px</option>
+																																<option value="15px" >15px</option>
+																																<option value="16px" >16px</option>
+																																<option value="17px" >17px</option>
+																																<option value="18px" >18px</option>
+																																<option value="19px" >19px</option>
+																																<option value="20px" >20px</option>
+																																<option value="21px" >21px</option>
+																																<option value="22px" >22px</option>
+																																<option value="23px" >23px</option>
+																																<option value="24px" >24px</option>
+																																<option value="25px" >25px</option>
+																																<option value="26px" >26px</option>
+																																<option value="27px" >27px</option>
+																																<option value="28px" >28px</option>
+																																<option value="29px" >29px</option>
+																																<option value="30px" >30px</option>
+																																<option value="31px" >31px</option>
+																																<option value="32px" >32px</option>
+																																<option value="33px" >33px</option>
+																																<option value="34px" >34px</option>
+																																<option value="35px" >35px</option>
+																																<option value="36px" >36px</option>
+																																<option value="37px" >37px</option>
+																																<option value="38px" >38px</option>
+																																<option value="39px" >39px</option>
+																																<option value="40px" >40px</option>
+																																<option value="41px" >41px</option>
+																																<option value="42px" >42px</option>
+																																<option value="43px" >43px</option>
+																																<option value="44px" >44px</option>
+																																<option value="45px" >45px</option>
+																																<option value="46px" >46px</option>
+																																<option value="47px" >47px</option>
+																																<option value="48px" >48px</option>
+																																<option value="49px" >49px</option>
+																																<option value="50px" >50px</option>
+																			</select>
+								</div>
+							</li>
+																				<li><h3>Button</h3>
+								<div class="boss_font">
+									<select id="g_addcart_fstyle" name="b_Font_Data[g_addcart_fstyle]" onchange="selectedFontStyle('g_addcart_fstyle','a.sft_quickshop_icon, .btn, .compare a, .wishlist a, #button-confirm, .prod-load-more a, .block-homepage .block-1 .bt-more a')">
+										<option>default</option>
+										<optgroup label="HTML default fonts">
+																																<option value="Arial" >Arial</option>
+																																<option value="Verdana" >Verdana</option>
+																																<option value="Helvetica" >Helvetica</option>
+																																<option value="Lucida Grande" >Lucida Grande</option>
+																																<option value="Trebuchet MS" >Trebuchet MS</option>
+																																<option value="Times New Roman" >Times New Roman</option>
+																																<option value="Tahoma" >Tahoma</option>
+																																<option value="Georgia" >Georgia</option>
+																				</optgroup>
+										<optgroup label="Google fonts">
+																																<option value="Allan" >Allan</option>
+																																<option value="Allerta" >Allerta</option>
+																																<option value="Arvo" >Arvo</option>
+																																<option value="Cabin" >Cabin</option>
+																																<option value="Cardo" >Cardo</option>
+																																<option value="Crimson+Text" >Crimson Text</option>
+																																<option value="Dancing+Script" >Dancing Script</option>
+																																<option value="Droid+Sans" >Droid Sans</option>
+																																<option value="Droid+Serif" >Droid Serif</option>
+																																<option value="Goudy+Bookletter+1911" >Goudy Bookletter 1911</option>
+																																<option value="Josefin+Sans" >Josefin Sans</option>
+																																<option value="Lobster" >Lobster</option>
+																																<option value="Molengo" >Molengo</option>
+																																<option value="Nobile" >Nobile</option>
+																																<option value="PT+Sans" >PT Sans</option>
+																																<option value="Raleway" >Raleway</option>
+																																<option value="Ubuntu" >Ubuntu</option>
+																																<option value="Vollkorn" >Vollkorn</option>
+																				</optgroup>
+									</select>
+								</div>
+								<div class="boss_size">
+									<select id="g_addcart_fsize" name="b_Font_Data[g_addcart_fsize]" onchange="selectedFontSize('g_addcart_fsize','a.sft_quickshop_icon, .btn, .compare a, .wishlist a, #button-confirm, .prod-load-more a, .block-homepage .block-1 .bt-more a')">
+																																<option value="default" selected>default</option>
+																																<option value="10px" >10px</option>
+																																<option value="11px" >11px</option>
+																																<option value="12px" >12px</option>
+																																<option value="13px" >13px</option>
+																																<option value="14px" >14px</option>
+																																<option value="15px" >15px</option>
+																																<option value="16px" >16px</option>
+																																<option value="17px" >17px</option>
+																																<option value="18px" >18px</option>
+																																<option value="19px" >19px</option>
+																																<option value="20px" >20px</option>
+																																<option value="21px" >21px</option>
+																																<option value="22px" >22px</option>
+																																<option value="23px" >23px</option>
+																																<option value="24px" >24px</option>
+																																<option value="25px" >25px</option>
+																																<option value="26px" >26px</option>
+																																<option value="27px" >27px</option>
+																																<option value="28px" >28px</option>
+																																<option value="29px" >29px</option>
+																																<option value="30px" >30px</option>
+																																<option value="31px" >31px</option>
+																																<option value="32px" >32px</option>
+																																<option value="33px" >33px</option>
+																																<option value="34px" >34px</option>
+																																<option value="35px" >35px</option>
+																																<option value="36px" >36px</option>
+																																<option value="37px" >37px</option>
+																																<option value="38px" >38px</option>
+																																<option value="39px" >39px</option>
+																																<option value="40px" >40px</option>
+																																<option value="41px" >41px</option>
+																																<option value="42px" >42px</option>
+																																<option value="43px" >43px</option>
+																																<option value="44px" >44px</option>
+																																<option value="45px" >45px</option>
+																																<option value="46px" >46px</option>
+																																<option value="47px" >47px</option>
+																																<option value="48px" >48px</option>
+																																<option value="49px" >49px</option>
+																																<option value="50px" >50px</option>
+																			</select>
+								</div>
+							</li>
+																				<li><h3>Header Fonts 1</h3>
+								<div class="boss_font">
+									<select id="h_fstyle_1" name="b_Font_Data[h_fstyle_1]" onchange="selectedFontStyle('h_fstyle_1','#boss-login > ul > li > span > a, #header #search a, #boss_cart .heading a, #currency button.dropdown-toggle')">
+										<option>default</option>
+										<optgroup label="HTML default fonts">
+																																<option value="Arial" >Arial</option>
+																																<option value="Verdana" >Verdana</option>
+																																<option value="Helvetica" >Helvetica</option>
+																																<option value="Lucida Grande" >Lucida Grande</option>
+																																<option value="Trebuchet MS" >Trebuchet MS</option>
+																																<option value="Times New Roman" >Times New Roman</option>
+																																<option value="Tahoma" >Tahoma</option>
+																																<option value="Georgia" >Georgia</option>
+																				</optgroup>
+										<optgroup label="Google fonts">
+																																<option value="Allan" >Allan</option>
+																																<option value="Allerta" >Allerta</option>
+																																<option value="Arvo" >Arvo</option>
+																																<option value="Cabin" >Cabin</option>
+																																<option value="Cardo" >Cardo</option>
+																																<option value="Crimson+Text" >Crimson Text</option>
+																																<option value="Dancing+Script" >Dancing Script</option>
+																																<option value="Droid+Sans" >Droid Sans</option>
+																																<option value="Droid+Serif" >Droid Serif</option>
+																																<option value="Goudy+Bookletter+1911" >Goudy Bookletter 1911</option>
+																																<option value="Josefin+Sans" >Josefin Sans</option>
+																																<option value="Lobster" >Lobster</option>
+																																<option value="Molengo" >Molengo</option>
+																																<option value="Nobile" >Nobile</option>
+																																<option value="PT+Sans" >PT Sans</option>
+																																<option value="Raleway" >Raleway</option>
+																																<option value="Ubuntu" >Ubuntu</option>
+																																<option value="Vollkorn" >Vollkorn</option>
+																				</optgroup>
+									</select>
+								</div>
+								<div class="boss_size">
+									<select id="h_fsize_1" name="b_Font_Data[h_fsize_1]" onchange="selectedFontSize('h_fsize_1','#boss-login > ul > li > span > a, #header #search a, #boss_cart .heading a, #currency button.dropdown-toggle')">
+																																<option value="default" selected>default</option>
+																																<option value="10px" >10px</option>
+																																<option value="11px" >11px</option>
+																																<option value="12px" >12px</option>
+																																<option value="13px" >13px</option>
+																																<option value="14px" >14px</option>
+																																<option value="15px" >15px</option>
+																																<option value="16px" >16px</option>
+																																<option value="17px" >17px</option>
+																																<option value="18px" >18px</option>
+																																<option value="19px" >19px</option>
+																																<option value="20px" >20px</option>
+																																<option value="21px" >21px</option>
+																																<option value="22px" >22px</option>
+																																<option value="23px" >23px</option>
+																																<option value="24px" >24px</option>
+																																<option value="25px" >25px</option>
+																																<option value="26px" >26px</option>
+																																<option value="27px" >27px</option>
+																																<option value="28px" >28px</option>
+																																<option value="29px" >29px</option>
+																																<option value="30px" >30px</option>
+																																<option value="31px" >31px</option>
+																																<option value="32px" >32px</option>
+																																<option value="33px" >33px</option>
+																																<option value="34px" >34px</option>
+																																<option value="35px" >35px</option>
+																																<option value="36px" >36px</option>
+																																<option value="37px" >37px</option>
+																																<option value="38px" >38px</option>
+																																<option value="39px" >39px</option>
+																																<option value="40px" >40px</option>
+																																<option value="41px" >41px</option>
+																																<option value="42px" >42px</option>
+																																<option value="43px" >43px</option>
+																																<option value="44px" >44px</option>
+																																<option value="45px" >45px</option>
+																																<option value="46px" >46px</option>
+																																<option value="47px" >47px</option>
+																																<option value="48px" >48px</option>
+																																<option value="49px" >49px</option>
+																																<option value="50px" >50px</option>
+																			</select>
+								</div>
+							</li>
+																				<li><h3>Footer Fonts 1</h3>
+								<div class="boss_font">
+									<select id="f_fstyle_1" name="b_Font_Data[f_fstyle_1]" onchange="selectedFontStyle('f_fstyle_1','#footer .column ul li a, #footer-block-friends a, #powered, #powered a')">
+										<option>default</option>
+										<optgroup label="HTML default fonts">
+																																<option value="Arial" >Arial</option>
+																																<option value="Verdana" >Verdana</option>
+																																<option value="Helvetica" >Helvetica</option>
+																																<option value="Lucida Grande" >Lucida Grande</option>
+																																<option value="Trebuchet MS" >Trebuchet MS</option>
+																																<option value="Times New Roman" >Times New Roman</option>
+																																<option value="Tahoma" >Tahoma</option>
+																																<option value="Georgia" >Georgia</option>
+																				</optgroup>
+										<optgroup label="Google fonts">
+																																<option value="Allan" >Allan</option>
+																																<option value="Allerta" >Allerta</option>
+																																<option value="Arvo" >Arvo</option>
+																																<option value="Cabin" >Cabin</option>
+																																<option value="Cardo" >Cardo</option>
+																																<option value="Crimson+Text" >Crimson Text</option>
+																																<option value="Dancing+Script" >Dancing Script</option>
+																																<option value="Droid+Sans" >Droid Sans</option>
+																																<option value="Droid+Serif" >Droid Serif</option>
+																																<option value="Goudy+Bookletter+1911" >Goudy Bookletter 1911</option>
+																																<option value="Josefin+Sans" >Josefin Sans</option>
+																																<option value="Lobster" >Lobster</option>
+																																<option value="Molengo" >Molengo</option>
+																																<option value="Nobile" >Nobile</option>
+																																<option value="PT+Sans" >PT Sans</option>
+																																<option value="Raleway" >Raleway</option>
+																																<option value="Ubuntu" >Ubuntu</option>
+																																<option value="Vollkorn" >Vollkorn</option>
+																				</optgroup>
+									</select>
+								</div>
+								<div class="boss_size">
+									<select id="f_fsize_1" name="b_Font_Data[f_fsize_1]" onchange="selectedFontSize('f_fsize_1','#footer .column ul li a, #footer-block-friends a, #powered, #powered a')">
+																																<option value="default" selected>default</option>
+																																<option value="10px" >10px</option>
+																																<option value="11px" >11px</option>
+																																<option value="12px" >12px</option>
+																																<option value="13px" >13px</option>
+																																<option value="14px" >14px</option>
+																																<option value="15px" >15px</option>
+																																<option value="16px" >16px</option>
+																																<option value="17px" >17px</option>
+																																<option value="18px" >18px</option>
+																																<option value="19px" >19px</option>
+																																<option value="20px" >20px</option>
+																																<option value="21px" >21px</option>
+																																<option value="22px" >22px</option>
+																																<option value="23px" >23px</option>
+																																<option value="24px" >24px</option>
+																																<option value="25px" >25px</option>
+																																<option value="26px" >26px</option>
+																																<option value="27px" >27px</option>
+																																<option value="28px" >28px</option>
+																																<option value="29px" >29px</option>
+																																<option value="30px" >30px</option>
+																																<option value="31px" >31px</option>
+																																<option value="32px" >32px</option>
+																																<option value="33px" >33px</option>
+																																<option value="34px" >34px</option>
+																																<option value="35px" >35px</option>
+																																<option value="36px" >36px</option>
+																																<option value="37px" >37px</option>
+																																<option value="38px" >38px</option>
+																																<option value="39px" >39px</option>
+																																<option value="40px" >40px</option>
+																																<option value="41px" >41px</option>
+																																<option value="42px" >42px</option>
+																																<option value="43px" >43px</option>
+																																<option value="44px" >44px</option>
+																																<option value="45px" >45px</option>
+																																<option value="46px" >46px</option>
+																																<option value="47px" >47px</option>
+																																<option value="48px" >48px</option>
+																																<option value="49px" >49px</option>
+																																<option value="50px" >50px</option>
+																			</select>
+								</div>
+							</li>
+																				<li><h3>Footer Fonts 2</h3>
+								<div class="boss_font">
+									<select id="f_fstyle_2" name="b_Font_Data[f_fstyle_2]" onchange="selectedFontStyle('f_fstyle_2','#footer h3, #footer_bottom .footer-link ul li a')">
+										<option>default</option>
+										<optgroup label="HTML default fonts">
+																																<option value="Arial" >Arial</option>
+																																<option value="Verdana" >Verdana</option>
+																																<option value="Helvetica" >Helvetica</option>
+																																<option value="Lucida Grande" >Lucida Grande</option>
+																																<option value="Trebuchet MS" >Trebuchet MS</option>
+																																<option value="Times New Roman" >Times New Roman</option>
+																																<option value="Tahoma" >Tahoma</option>
+																																<option value="Georgia" >Georgia</option>
+																				</optgroup>
+										<optgroup label="Google fonts">
+																																<option value="Allan" >Allan</option>
+																																<option value="Allerta" >Allerta</option>
+																																<option value="Arvo" >Arvo</option>
+																																<option value="Cabin" >Cabin</option>
+																																<option value="Cardo" >Cardo</option>
+																																<option value="Crimson+Text" >Crimson Text</option>
+																																<option value="Dancing+Script" >Dancing Script</option>
+																																<option value="Droid+Sans" >Droid Sans</option>
+																																<option value="Droid+Serif" >Droid Serif</option>
+																																<option value="Goudy+Bookletter+1911" >Goudy Bookletter 1911</option>
+																																<option value="Josefin+Sans" >Josefin Sans</option>
+																																<option value="Lobster" >Lobster</option>
+																																<option value="Molengo" >Molengo</option>
+																																<option value="Nobile" >Nobile</option>
+																																<option value="PT+Sans" >PT Sans</option>
+																																<option value="Raleway" >Raleway</option>
+																																<option value="Ubuntu" >Ubuntu</option>
+																																<option value="Vollkorn" >Vollkorn</option>
+																				</optgroup>
+									</select>
+								</div>
+								<div class="boss_size">
+									<select id="f_fsize_2" name="b_Font_Data[f_fsize_2]" onchange="selectedFontSize('f_fsize_2','#footer h3, #footer_bottom .footer-link ul li a')">
+																																<option value="default" selected>default</option>
+																																<option value="10px" >10px</option>
+																																<option value="11px" >11px</option>
+																																<option value="12px" >12px</option>
+																																<option value="13px" >13px</option>
+																																<option value="14px" >14px</option>
+																																<option value="15px" >15px</option>
+																																<option value="16px" >16px</option>
+																																<option value="17px" >17px</option>
+																																<option value="18px" >18px</option>
+																																<option value="19px" >19px</option>
+																																<option value="20px" >20px</option>
+																																<option value="21px" >21px</option>
+																																<option value="22px" >22px</option>
+																																<option value="23px" >23px</option>
+																																<option value="24px" >24px</option>
+																																<option value="25px" >25px</option>
+																																<option value="26px" >26px</option>
+																																<option value="27px" >27px</option>
+																																<option value="28px" >28px</option>
+																																<option value="29px" >29px</option>
+																																<option value="30px" >30px</option>
+																																<option value="31px" >31px</option>
+																																<option value="32px" >32px</option>
+																																<option value="33px" >33px</option>
+																																<option value="34px" >34px</option>
+																																<option value="35px" >35px</option>
+																																<option value="36px" >36px</option>
+																																<option value="37px" >37px</option>
+																																<option value="38px" >38px</option>
+																																<option value="39px" >39px</option>
+																																<option value="40px" >40px</option>
+																																<option value="41px" >41px</option>
+																																<option value="42px" >42px</option>
+																																<option value="43px" >43px</option>
+																																<option value="44px" >44px</option>
+																																<option value="45px" >45px</option>
+																																<option value="46px" >46px</option>
+																																<option value="47px" >47px</option>
+																																<option value="48px" >48px</option>
+																																<option value="49px" >49px</option>
+																																<option value="50px" >50px</option>
+																			</select>
+								</div>
+							</li>
+																				<li><h3>Menu Fonts 1</h3>
+								<div class="boss_font">
+									<select id="m_fstyle_1" name="b_Font_Data[m_fstyle_1]" onchange="selectedFontStyle('m_fstyle_1','.menu-title')">
+										<option>default</option>
+										<optgroup label="HTML default fonts">
+																																<option value="Arial" >Arial</option>
+																																<option value="Verdana" >Verdana</option>
+																																<option value="Helvetica" >Helvetica</option>
+																																<option value="Lucida Grande" >Lucida Grande</option>
+																																<option value="Trebuchet MS" >Trebuchet MS</option>
+																																<option value="Times New Roman" >Times New Roman</option>
+																																<option value="Tahoma" >Tahoma</option>
+																																<option value="Georgia" >Georgia</option>
+																				</optgroup>
+										<optgroup label="Google fonts">
+																																<option value="Allan" >Allan</option>
+																																<option value="Allerta" >Allerta</option>
+																																<option value="Arvo" >Arvo</option>
+																																<option value="Cabin" >Cabin</option>
+																																<option value="Cardo" >Cardo</option>
+																																<option value="Crimson+Text" >Crimson Text</option>
+																																<option value="Dancing+Script" >Dancing Script</option>
+																																<option value="Droid+Sans" >Droid Sans</option>
+																																<option value="Droid+Serif" >Droid Serif</option>
+																																<option value="Goudy+Bookletter+1911" >Goudy Bookletter 1911</option>
+																																<option value="Josefin+Sans" >Josefin Sans</option>
+																																<option value="Lobster" >Lobster</option>
+																																<option value="Molengo" >Molengo</option>
+																																<option value="Nobile" >Nobile</option>
+																																<option value="PT+Sans" >PT Sans</option>
+																																<option value="Raleway" >Raleway</option>
+																																<option value="Ubuntu" >Ubuntu</option>
+																																<option value="Vollkorn" >Vollkorn</option>
+																				</optgroup>
+									</select>
+								</div>
+								<div class="boss_size">
+									<select id="m_fsize_1" name="b_Font_Data[m_fsize_1]" onchange="selectedFontSize('m_fsize_1','.menu-title')">
+																																<option value="default" selected>default</option>
+																																<option value="10px" >10px</option>
+																																<option value="11px" >11px</option>
+																																<option value="12px" >12px</option>
+																																<option value="13px" >13px</option>
+																																<option value="14px" >14px</option>
+																																<option value="15px" >15px</option>
+																																<option value="16px" >16px</option>
+																																<option value="17px" >17px</option>
+																																<option value="18px" >18px</option>
+																																<option value="19px" >19px</option>
+																																<option value="20px" >20px</option>
+																																<option value="21px" >21px</option>
+																																<option value="22px" >22px</option>
+																																<option value="23px" >23px</option>
+																																<option value="24px" >24px</option>
+																																<option value="25px" >25px</option>
+																																<option value="26px" >26px</option>
+																																<option value="27px" >27px</option>
+																																<option value="28px" >28px</option>
+																																<option value="29px" >29px</option>
+																																<option value="30px" >30px</option>
+																																<option value="31px" >31px</option>
+																																<option value="32px" >32px</option>
+																																<option value="33px" >33px</option>
+																																<option value="34px" >34px</option>
+																																<option value="35px" >35px</option>
+																																<option value="36px" >36px</option>
+																																<option value="37px" >37px</option>
+																																<option value="38px" >38px</option>
+																																<option value="39px" >39px</option>
+																																<option value="40px" >40px</option>
+																																<option value="41px" >41px</option>
+																																<option value="42px" >42px</option>
+																																<option value="43px" >43px</option>
+																																<option value="44px" >44px</option>
+																																<option value="45px" >45px</option>
+																																<option value="46px" >46px</option>
+																																<option value="47px" >47px</option>
+																																<option value="48px" >48px</option>
+																																<option value="49px" >49px</option>
+																																<option value="50px" >50px</option>
+																			</select>
+								</div>
+							</li>
+																																		<li><h3>Product Name</h3>
+								<div class="boss_font">
+									<select id="p_name_fstyle" name="b_Font_Data[p_name_fstyle]" onchange="selectedFontStyle('p_name_fstyle','.name a, .mini-cart-info td.name > span, .cart-info table.table tbody td.name > span, .boss_article-item h2 a, .block .article-title a, .block .comment-title a')">
+										<option>default</option>
+										<optgroup label="HTML default fonts">
+																																<option value="Arial" >Arial</option>
+																																<option value="Verdana" >Verdana</option>
+																																<option value="Helvetica" >Helvetica</option>
+																																<option value="Lucida Grande" >Lucida Grande</option>
+																																<option value="Trebuchet MS" >Trebuchet MS</option>
+																																<option value="Times New Roman" >Times New Roman</option>
+																																<option value="Tahoma" >Tahoma</option>
+																																<option value="Georgia" >Georgia</option>
+																				</optgroup>
+										<optgroup label="Google fonts">
+																																<option value="Allan" >Allan</option>
+																																<option value="Allerta" >Allerta</option>
+																																<option value="Arvo" >Arvo</option>
+																																<option value="Cabin" >Cabin</option>
+																																<option value="Cardo" >Cardo</option>
+																																<option value="Crimson+Text" >Crimson Text</option>
+																																<option value="Dancing+Script" >Dancing Script</option>
+																																<option value="Droid+Sans" >Droid Sans</option>
+																																<option value="Droid+Serif" >Droid Serif</option>
+																																<option value="Goudy+Bookletter+1911" >Goudy Bookletter 1911</option>
+																																<option value="Josefin+Sans" >Josefin Sans</option>
+																																<option value="Lobster" >Lobster</option>
+																																<option value="Molengo" >Molengo</option>
+																																<option value="Nobile" >Nobile</option>
+																																<option value="PT+Sans" >PT Sans</option>
+																																<option value="Raleway" >Raleway</option>
+																																<option value="Ubuntu" >Ubuntu</option>
+																																<option value="Vollkorn" >Vollkorn</option>
+																				</optgroup>
+									</select>
+								</div>
+								<div class="boss_size">
+									<select id="p_name_fsize" name="b_Font_Data[p_name_fsize]" onchange="selectedFontSize('p_name_fsize','.name a, .mini-cart-info td.name > span, .cart-info table.table tbody td.name > span, .boss_article-item h2 a, .block .article-title a, .block .comment-title a')">
+																																<option value="default" selected>default</option>
+																																<option value="10px" >10px</option>
+																																<option value="11px" >11px</option>
+																																<option value="12px" >12px</option>
+																																<option value="13px" >13px</option>
+																																<option value="14px" >14px</option>
+																																<option value="15px" >15px</option>
+																																<option value="16px" >16px</option>
+																																<option value="17px" >17px</option>
+																																<option value="18px" >18px</option>
+																																<option value="19px" >19px</option>
+																																<option value="20px" >20px</option>
+																																<option value="21px" >21px</option>
+																																<option value="22px" >22px</option>
+																																<option value="23px" >23px</option>
+																																<option value="24px" >24px</option>
+																																<option value="25px" >25px</option>
+																																<option value="26px" >26px</option>
+																																<option value="27px" >27px</option>
+																																<option value="28px" >28px</option>
+																																<option value="29px" >29px</option>
+																																<option value="30px" >30px</option>
+																																<option value="31px" >31px</option>
+																																<option value="32px" >32px</option>
+																																<option value="33px" >33px</option>
+																																<option value="34px" >34px</option>
+																																<option value="35px" >35px</option>
+																																<option value="36px" >36px</option>
+																																<option value="37px" >37px</option>
+																																<option value="38px" >38px</option>
+																																<option value="39px" >39px</option>
+																																<option value="40px" >40px</option>
+																																<option value="41px" >41px</option>
+																																<option value="42px" >42px</option>
+																																<option value="43px" >43px</option>
+																																<option value="44px" >44px</option>
+																																<option value="45px" >45px</option>
+																																<option value="46px" >46px</option>
+																																<option value="47px" >47px</option>
+																																<option value="48px" >48px</option>
+																																<option value="49px" >49px</option>
+																																<option value="50px" >50px</option>
+																			</select>
+								</div>
+							</li>
+																																		<li><h3>Page Title</h3>
+								<div class="boss_font">
+									<select id="t_page_fstyle" name="b_Font_Data[t_page_fstyle]" onchange="selectedFontStyle('t_page_fstyle','h1, h2, h3, .tags b, div.jGrowl div.jGrowl-notification div.jGrowl-header')">
+										<option>default</option>
+										<optgroup label="HTML default fonts">
+																																<option value="Arial" >Arial</option>
+																																<option value="Verdana" >Verdana</option>
+																																<option value="Helvetica" >Helvetica</option>
+																																<option value="Lucida Grande" >Lucida Grande</option>
+																																<option value="Trebuchet MS" >Trebuchet MS</option>
+																																<option value="Times New Roman" >Times New Roman</option>
+																																<option value="Tahoma" >Tahoma</option>
+																																<option value="Georgia" >Georgia</option>
+																				</optgroup>
+										<optgroup label="Google fonts">
+																																<option value="Allan" >Allan</option>
+																																<option value="Allerta" >Allerta</option>
+																																<option value="Arvo" >Arvo</option>
+																																<option value="Cabin" >Cabin</option>
+																																<option value="Cardo" >Cardo</option>
+																																<option value="Crimson+Text" >Crimson Text</option>
+																																<option value="Dancing+Script" >Dancing Script</option>
+																																<option value="Droid+Sans" >Droid Sans</option>
+																																<option value="Droid+Serif" >Droid Serif</option>
+																																<option value="Goudy+Bookletter+1911" >Goudy Bookletter 1911</option>
+																																<option value="Josefin+Sans" >Josefin Sans</option>
+																																<option value="Lobster" >Lobster</option>
+																																<option value="Molengo" >Molengo</option>
+																																<option value="Nobile" >Nobile</option>
+																																<option value="PT+Sans" >PT Sans</option>
+																																<option value="Raleway" >Raleway</option>
+																																<option value="Ubuntu" >Ubuntu</option>
+																																<option value="Vollkorn" >Vollkorn</option>
+																				</optgroup>
+									</select>
+								</div>
+								<div class="boss_size">
+									<select id="t_page_fsize" name="b_Font_Data[t_page_fsize]" onchange="selectedFontSize('t_page_fsize','h1, h2, h3, .tags b, div.jGrowl div.jGrowl-notification div.jGrowl-header')">
+																																<option value="default" selected>default</option>
+																																<option value="10px" >10px</option>
+																																<option value="11px" >11px</option>
+																																<option value="12px" >12px</option>
+																																<option value="13px" >13px</option>
+																																<option value="14px" >14px</option>
+																																<option value="15px" >15px</option>
+																																<option value="16px" >16px</option>
+																																<option value="17px" >17px</option>
+																																<option value="18px" >18px</option>
+																																<option value="19px" >19px</option>
+																																<option value="20px" >20px</option>
+																																<option value="21px" >21px</option>
+																																<option value="22px" >22px</option>
+																																<option value="23px" >23px</option>
+																																<option value="24px" >24px</option>
+																																<option value="25px" >25px</option>
+																																<option value="26px" >26px</option>
+																																<option value="27px" >27px</option>
+																																<option value="28px" >28px</option>
+																																<option value="29px" >29px</option>
+																																<option value="30px" >30px</option>
+																																<option value="31px" >31px</option>
+																																<option value="32px" >32px</option>
+																																<option value="33px" >33px</option>
+																																<option value="34px" >34px</option>
+																																<option value="35px" >35px</option>
+																																<option value="36px" >36px</option>
+																																<option value="37px" >37px</option>
+																																<option value="38px" >38px</option>
+																																<option value="39px" >39px</option>
+																																<option value="40px" >40px</option>
+																																<option value="41px" >41px</option>
+																																<option value="42px" >42px</option>
+																																<option value="43px" >43px</option>
+																																<option value="44px" >44px</option>
+																																<option value="45px" >45px</option>
+																																<option value="46px" >46px</option>
+																																<option value="47px" >47px</option>
+																																<option value="48px" >48px</option>
+																																<option value="49px" >49px</option>
+																																<option value="50px" >50px</option>
+																			</select>
+								</div>
+							</li>
+																				<li><h3>Block Title</h3>
+								<div class="boss_font">
+									<select id="t_block_fstyle" name="b_Font_Data[t_block_fstyle]" onchange="selectedFontStyle('t_block_fstyle','.boss_homefilter_tabs .tabs-headings a, .htabs a, .box-heading, .checkout-heading a, .box-title, .cart-module h2, h2.ta-header, .boss-featured .box-heading, .cart-info table thead tr td, .wishlist-info table thead tr td, .checkout-product table.table thead td, .checkout-heading, .compare-info tr td:first-child')">
+										<option>default</option>
+										<optgroup label="HTML default fonts">
+																																<option value="Arial" >Arial</option>
+																																<option value="Verdana" >Verdana</option>
+																																<option value="Helvetica" >Helvetica</option>
+																																<option value="Lucida Grande" >Lucida Grande</option>
+																																<option value="Trebuchet MS" >Trebuchet MS</option>
+																																<option value="Times New Roman" >Times New Roman</option>
+																																<option value="Tahoma" >Tahoma</option>
+																																<option value="Georgia" >Georgia</option>
+																				</optgroup>
+										<optgroup label="Google fonts">
+																																<option value="Allan" >Allan</option>
+																																<option value="Allerta" >Allerta</option>
+																																<option value="Arvo" >Arvo</option>
+																																<option value="Cabin" >Cabin</option>
+																																<option value="Cardo" >Cardo</option>
+																																<option value="Crimson+Text" >Crimson Text</option>
+																																<option value="Dancing+Script" >Dancing Script</option>
+																																<option value="Droid+Sans" >Droid Sans</option>
+																																<option value="Droid+Serif" >Droid Serif</option>
+																																<option value="Goudy+Bookletter+1911" >Goudy Bookletter 1911</option>
+																																<option value="Josefin+Sans" >Josefin Sans</option>
+																																<option value="Lobster" >Lobster</option>
+																																<option value="Molengo" >Molengo</option>
+																																<option value="Nobile" >Nobile</option>
+																																<option value="PT+Sans" >PT Sans</option>
+																																<option value="Raleway" >Raleway</option>
+																																<option value="Ubuntu" >Ubuntu</option>
+																																<option value="Vollkorn" >Vollkorn</option>
+																				</optgroup>
+									</select>
+								</div>
+								<div class="boss_size">
+									<select id="t_block_fsize" name="b_Font_Data[t_block_fsize]" onchange="selectedFontSize('t_block_fsize','.boss_homefilter_tabs .tabs-headings a, .htabs a, .box-heading, .checkout-heading a, .box-title, .cart-module h2, h2.ta-header, .boss-featured .box-heading, .cart-info table thead tr td, .wishlist-info table thead tr td, .checkout-product table.table thead td, .checkout-heading, .compare-info tr td:first-child')">
+																																<option value="default" selected>default</option>
+																																<option value="10px" >10px</option>
+																																<option value="11px" >11px</option>
+																																<option value="12px" >12px</option>
+																																<option value="13px" >13px</option>
+																																<option value="14px" >14px</option>
+																																<option value="15px" >15px</option>
+																																<option value="16px" >16px</option>
+																																<option value="17px" >17px</option>
+																																<option value="18px" >18px</option>
+																																<option value="19px" >19px</option>
+																																<option value="20px" >20px</option>
+																																<option value="21px" >21px</option>
+																																<option value="22px" >22px</option>
+																																<option value="23px" >23px</option>
+																																<option value="24px" >24px</option>
+																																<option value="25px" >25px</option>
+																																<option value="26px" >26px</option>
+																																<option value="27px" >27px</option>
+																																<option value="28px" >28px</option>
+																																<option value="29px" >29px</option>
+																																<option value="30px" >30px</option>
+																																<option value="31px" >31px</option>
+																																<option value="32px" >32px</option>
+																																<option value="33px" >33px</option>
+																																<option value="34px" >34px</option>
+																																<option value="35px" >35px</option>
+																																<option value="36px" >36px</option>
+																																<option value="37px" >37px</option>
+																																<option value="38px" >38px</option>
+																																<option value="39px" >39px</option>
+																																<option value="40px" >40px</option>
+																																<option value="41px" >41px</option>
+																																<option value="42px" >42px</option>
+																																<option value="43px" >43px</option>
+																																<option value="44px" >44px</option>
+																																<option value="45px" >45px</option>
+																																<option value="46px" >46px</option>
+																																<option value="47px" >47px</option>
+																																<option value="48px" >48px</option>
+																																<option value="49px" >49px</option>
+																																<option value="50px" >50px</option>
+																			</select>
+								</div>
+							</li>
+																		</ul>
+				</li> <!-- End font setting-->
+				
+				<li><!-- Color setting-->
+					<span class="expand">Color Setting</span>
+					<ul class="accordion_content"> 
+						<li><h3>Template Color</h3>
+							<div class="boss_color_scheme">
+																<select id="temp_setting" name="b_Setting[temp_setting]" onchange="changeTemplate(this.value);">
+									<option value="custom" >Custom</option>
+																														<option value="theme1">Default</option>
+																			 																					<option value="theme2">Red</option>
+																			 																					<option value="theme3">Blue</option>
+																			 																					<option value="theme4">Orange</option>
+																			 																					<option value="theme5">Green</option>
+																			 								</select>
+							</div>
+						</li>
+																			<li><h2 class="title">general</h2></li>
+																					<li> 
+									<h3>Background Color</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[g_bg_color]" id="g_bg_color" value="" />
+																																																				</li> 
+																					<li> 
+									<h3>Text Color 1</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[g_text_1]" id="g_text_1" value="" />
+																																																				</li> 
+																					<li> 
+									<h3>Text Color 2</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[g_text_2]" id="g_text_2" value="" />
+																																																				</li> 
+																												<li> 
+									<h3>Button 1 - Gray</h3>
+																																																																		<p>																					<span>Background Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[g_button_bg_normal_1]" id="g_button_bg_normal_1" value="" />
+																			</p>																																																																			<p>																					<span>Text </span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[g_button_text_normal_1]" id="g_button_text_normal_1" value="" />
+																			</p>																																	</li> 
+																					<li> 
+									<h3>Button 2 - Color</h3>
+																																																																		<p>																					<span>Background Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[g_button_bg_normal_2]" id="g_button_bg_normal_2" value="" />
+																			</p>																																																																			<p>																					<span>Text </span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[g_button_text_normal_2]" id="g_button_text_normal_2" value="" />
+																			</p>																																	</li> 
+													<li><h2 class="title">header</h2></li>
+																					<li> 
+									<h3>Header background color</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[h_bg_color]" id="h_bg_color" value="" />
+																																																				</li> 
+																					<li> 
+									<h3>Text color</h3>
+																																																																		<p>																					<span>Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[h_text_nomal]" id="h_text_nomal" value="" />
+																			</p>																																																	</li> 
+													<li><h2 class="title">footer</h2></li>
+																					<li> 
+									<h3>Background color</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[f_bg_color]" id="f_bg_color" value="" />
+																																																				</li> 
+																					<li> 
+									<h3>Text color 1</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[f_text_1]" id="f_text_1" value="" />
+																																																				</li> 
+																					<li> 
+									<h3>Text color 2</h3>
+																																																																		<p>																					<span>Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[f_text_normal_2]" id="f_text_normal_2" value="" />
+																			</p>																																																	</li> 
+																					<li> 
+									<h3>Text color 3</h3>
+																																																																		<p>																					<span>Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[f_text_3]" id="f_text_3" value="" />
+																			</p>																																	</li> 
+																					<li> 
+									<h3>Text color 4</h3>
+																																																																		<p>																					<span>Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[f_text_4]" id="f_text_4" value="" />
+																			</p>																																	</li> 
+													<li><h2 class="title">menu</h2></li>
+																					<li> 
+									<h3>Background color</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[m_bg_color]" id="m_bg_color" value="" />
+																																																				</li> 
+																												<li> 
+									<h3>Text Color 1</h3>
+																																																																		<p>																					<span>Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[m_text_normal_1]" id="m_text_normal_1" value="" />
+																			</p>																																	</li> 
+																																		<li><h2 class="title">product</h2></li>
+																					<li> 
+									<h3>Product name</h3>
+																																																																		<p>																					<span>Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[p_name_text_normal]" id="p_name_text_normal" value="" />
+																			</p>																																																	</li> 
+																					<li> 
+									<h3>Product description</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[p_des_text]" id="p_des_text" value="" />
+																																																				</li> 
+																					<li> 
+									<h3>Price color</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[p_price_text]" id="p_price_text" value="" />
+																																																				</li> 
+																					<li> 
+									<h3>Special price color</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[p_spec_text]" id="p_spec_text" value="" />
+																																																				</li> 
+																					<li> 
+									<h3>Compare/Wishlist</h3>
+																																																																		<p>																					<span>Background Icon Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[p_cw_bg_normal]" id="p_cw_bg_normal" value="" />
+																			</p>																																																																			<p>																					<span>Text Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[p_cw_text_normal]" id="p_cw_text_normal" value="" />
+																			</p>																																																	</li> 
+													<li><h2 class="title">title</h2></li>
+																					<li> 
+									<h3>Title</h3>
+																																																																																																	<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[t_page]" id="t_page" value="" />
+																																																				</li> 
+																					<li> 
+									<h3>Breadcrumb color</h3>
+																																																																		<p>																					<span>Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[t_bread_normal_1]" id="t_bread_normal_1" value="" />
+																			</p>																																																	</li> 
+																					<li> 
+									<h3>Box Heading</h3>
+																																																																		<p>																					<span>Background</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[t_block_text]" id="t_block_text" value="" />
+																			</p>																																																			<p>																					<span>Text</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[t_block_bg]" id="t_block_bg" value="" />
+																			</p>																																	</li> 
+																					<li> 
+									<h3>Tab Title</h3>
+																																																																		<p>																					<span>Text Normal</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[t_tab_text]" id="t_tab_text" value="" />
+																			</p>																																																			<p>																					<span>Text Active/Hover</span>
+																															<input size=6 type="text" class="hex" style="width:50px" name="b_Color_Data[t_tab_text_hover]" id="t_tab_text_hover" value="" />
+																			</p>																																	</li> 
+											</ul>
+				</li> <!-- End Color setting -->
+				
+			</ul>
+			<ul class="reset"><li><input class="btn-reset" type="button" value="Reset" onclick="ResetAll()" />
+				<input type="hidden" id="colors_data" name="colors_data" value='{"theme1":{"g_bg_color":"ffffff","g_text_1":"9a9a9a","g_text_2":"141414","g_text_3":"C30005","g_button_bg_normal_1":"DCDCDC","g_button_bg_hover_1":"C30005","g_button_text_normal_1":"ffffff","g_button_bg_normal_2":"C30005","g_button_bg_hover_2":"0A0A0A","g_button_text_normal_2":"ffffff","h_bg_color":"0A0A0A","h_text_nomal":"C8C8C8","h_text_hover":"C83A3A","f_bg_color":"0A0A0A","f_text_1":"141414","f_text_normal_2":"AAAAAA","f_text_hover_2":"C30005","f_text_3":"ffffff","f_text_4":"646464","m_bg_color":"DCDCDC","mdrop_bg_color":"ffffff","m_text_normal_1":"0A0A0A","m_text_normal_2":"C30005","m_text_hover_2":"141414","m_text_normal_3":"AAAAAA","m_text_hover_3":"C30005","m_text_normal_4":"141414","p_name_text_normal":"969696","p_name_text_hover":"C30005","p_des_text":"AAAAAA","p_price_text":"C30005","p_spec_text":"141414","p_cw_bg_normal":"C8C8C8","p_cw_bg_hover":"C30005","p_cw_text_normal":"C8C8C8","p_cw_text_hover":"141414","t_page":"C30005","t_bread_normal_1":"969696","t_bread_hover_1":"141414","t_block_text":"0A0A0A","t_block_bg":"ffffff","t_tab_text":"969696","t_tab_text_hover":"0A0A0A"},"theme2":{"g_bg_color":"e5e5e5","g_text_1":"9a9a9a","g_text_2":"141414","g_text_3":"C30005","g_button_bg_normal_1":"DCDCDC","g_button_bg_hover_1":"C30005","g_button_text_normal_1":"ffffff","g_button_bg_normal_2":"C30005","g_button_bg_hover_2":"0A0A0A","g_button_text_normal_2":"ffffff","h_bg_color":"c30005","h_text_nomal":"ffffff","h_text_hover":"0a0a0a","f_bg_color":"c30005","f_text_1":"141414","f_text_normal_2":"AAAAAA","f_text_hover_2":"C30005","f_text_3":"ffffff","f_text_4":"ffffff","m_bg_color":"0a0a0a","mdrop_bg_color":"ffffff","m_text_normal_1":"ffffff","m_text_normal_2":"C30005","m_text_hover_2":"141414","m_text_normal_3":"AAAAAA","m_text_hover_3":"C30005","m_text_normal_4":"141414","p_name_text_normal":"969696","p_name_text_hover":"C30005","p_des_text":"AAAAAA","p_price_text":"141414","p_spec_text":"C30005","p_cw_bg_normal":"C8C8C8","p_cw_bg_hover":"C30005","p_cw_text_normal":"C8C8C8","p_cw_text_hover":"141414","t_page":"C30005","t_bread_normal_1":"969696","t_bread_hover_1":"141414","t_block_text":"0A0A0A","t_block_bg":"ffffff","t_tab_text":"969696","t_tab_text_hover":"0A0A0A"},"theme3":{"g_bg_color":"ffffff","g_text_1":"9a9a9a","g_text_2":"141414","g_text_3":"C30005","g_button_bg_normal_1":"DCDCDC","g_button_bg_hover_1":"00387f","g_button_text_normal_1":"ffffff","g_button_bg_normal_2":"00387f","g_button_bg_hover_2":"0A0A0A","g_button_text_normal_2":"ffffff","h_bg_color":"00387f","h_text_nomal":"C8C8C8","h_text_hover":"C83A3A","f_bg_color":"00387f","f_text_1":"141414","f_text_normal_2":"AAAAAA","f_text_hover_2":"C30005","f_text_3":"ffffff","f_text_4":"ffffff","m_bg_color":"DCDCDC","mdrop_bg_color":"ffffff","m_text_normal_1":"0A0A0A","m_text_normal_2":"C30005","m_text_hover_2":"141414","m_text_normal_3":"AAAAAA","m_text_hover_3":"C30005","m_text_normal_4":"141414","p_name_text_normal":"969696","p_name_text_hover":"C30005","p_des_text":"AAAAAA","p_price_text":"00387f","p_spec_text":"C30005","p_cw_bg_normal":"C8C8C8","p_cw_bg_hover":"00387f","p_cw_text_normal":"C8C8C8","p_cw_text_hover":"141414","t_page":"C30005","t_bread_normal_1":"969696","t_bread_hover_1":"141414","t_block_text":"0A0A0A","t_block_bg":"ffffff","t_tab_text":"969696","t_tab_text_hover":"0A0A0A"},"theme4":{"g_bg_color":"e5e5e5","g_text_1":"9a9a9a","g_text_2":"141414","g_text_3":"C30005","g_button_bg_normal_1":"DCDCDC","g_button_bg_hover_1":"d9870e","g_button_text_normal_1":"ffffff","g_button_bg_normal_2":"d9870e","g_button_bg_hover_2":"0A0A0A","g_button_text_normal_2":"ffffff","h_bg_color":"d9870e","h_text_nomal":"ffffff","h_text_hover":"C83A3A","f_bg_color":"d9870e","f_text_1":"141414","f_text_normal_2":"AAAAAA","f_text_hover_2":"C30005","f_text_3":"ffffff","f_text_4":"ffffff","m_bg_color":"0a0a0a","mdrop_bg_color":"ffffff","m_text_normal_1":"ffffff","m_text_normal_2":"C30005","m_text_hover_2":"141414","m_text_normal_3":"AAAAAA","m_text_hover_3":"C30005","m_text_normal_4":"141414","p_name_text_normal":"969696","p_name_text_hover":"C30005","p_des_text":"AAAAAA","p_price_text":"141414","p_spec_text":"d9870e","p_cw_bg_normal":"C8C8C8","p_cw_bg_hover":"d9870e","p_cw_text_normal":"C8C8C8","p_cw_text_hover":"141414","t_page":"C30005","t_bread_normal_1":"969696","t_bread_hover_1":"141414","t_block_text":"0A0A0A","t_block_bg":"ffffff","t_tab_text":"969696","t_tab_text_hover":"0A0A0A"},"theme5":{"g_bg_color":"ffffff","g_text_1":"9a9a9a","g_text_2":"141414","g_text_3":"C30005","g_button_bg_normal_1":"DCDCDC","g_button_bg_hover_1":"00a04f","g_button_text_normal_1":"ffffff","g_button_bg_normal_2":"00a04f","g_button_bg_hover_2":"0A0A0A","g_button_text_normal_2":"ffffff","h_bg_color":"00a04f","h_text_nomal":"ffffff","h_text_hover":"C83A3A","f_bg_color":"00a04f","f_text_1":"141414","f_text_normal_2":"AAAAAA","f_text_hover_2":"C30005","f_text_3":"ffffff","f_text_4":"ffffff","m_bg_color":"0a0a0a","mdrop_bg_color":"ffffff","m_text_normal_1":"ffffff","m_text_normal_2":"C30005","m_text_hover_2":"141414","m_text_normal_3":"AAAAAA","m_text_hover_3":"C30005","m_text_normal_4":"141414","p_name_text_normal":"969696","p_name_text_hover":"C30005","p_des_text":"AAAAAA","p_price_text":"00a04f","p_spec_text":"0a0a0a","p_cw_bg_normal":"C8C8C8","p_cw_bg_hover":"00a04f","p_cw_text_normal":"C8C8C8","p_cw_text_hover":"141414","t_page":"C30005","t_bread_normal_1":"969696","t_bread_hover_1":"141414","t_block_text":"0A0A0A","t_block_bg":"ffffff","t_tab_text":"969696","t_tab_text_hover":"0A0A0A"}}' /></li></ul>
+			</div>
+		</div> <!-- End .boss-themedesign-->
+	<script type="text/javascript"><!--
+	var jsprefix = 'res_';
+	//--></script>
+	<script type="text/javascript" src="catalog/view/javascript/bossthemes/jquery.dcjqaccordion.js"></script>
+	<script type="text/javascript" src="catalog/view/javascript/bossthemes/bossthemes.setting.js"></script>
+	<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.total-storage.min.js"></script>
+	<script type="text/javascript" src="catalog/view/javascript/bossthemes/colorpicker.js"></script>
+	<script type="text/javascript" src="catalog/view/javascript/bossthemes/eye.js"></script>
+	<script type="text/javascript"><!--
+$(document).ready(function() {
+	function addStyle(i){
+		$("#" + id_Color_List[i]).css('background', '#' + $("#" + id_Color_List[i]).val());
+	}
+	for(var i = 0 ; i < id_Color_List.length; i++ ){
+			addStyle(i);
+	};
+});
+(function($){
+	function changeColorPicker(id_name,class_name,style){
+		$('#' + id_name).ColorPicker({
+			onSubmit: function(hsb, hex, rgb, el) {
+				$(el).val(hex);
+				$(el).css({backgroundColor:"#" + hex});
+				$(el).ColorPickerHide();
+			},
+			onChange: function (hsb, hex, rgb) {
+				if ($("#temp_setting").val() != "custom") {
+                  $("#temp_setting").val("custom");
+                }
+				var idName = id_name;
+				var className = class_name;
+				$("#" + id_name).css('background', '#' + hex);
+				$("#" + id_name).val(hex);
+				$(class_name).css(style,'#' + hex);
+			},
+			onBeforeShow: function () {
+				$(this).ColorPickerSetColor(this.value);
+			}
+			
+		});
+	};	
+	var initLayout = function() {
+									changeColorPicker('g_bg_color','body, .modal-content','background-color');
+													changeColorPicker('g_text_1','body, a, input, button, select, textarea, .boss-alphabet a, .product-info .cart .price_info span.price-old, .product-filter .sort select, .product-filter .limit select, .cart-info table.table tbody .model, .wishlist-info table.table tbody .model, .checkout-product table.table tbody .model, .checkout-content label, .checkout-content a.colorbox, .checkout-content a.colorbox b, .checkout-content p, .mini-cart-total td, .form-control, .product-info h1, #search-form #search-form-bot input, form.register .newsletter table.form td.input span, .prod-load-more a','color');
+													changeColorPicker('g_text_2','h3, form.register td, .login-content b, .product-info .title_text b, .product-info .options .box-check b, .attribute td, .block .article-title a, .block .comment-title a, .article-name a, .product-filter .sort b, .product-filter .limit b, .form-comment-container label.required, .cart-info table thead tr td, .wishlist-info table thead tr td, .wishlist-info table.table tbody .name div, .cart-info table.table tbody .name div, table.radio td, .cart-module .content table tr td, .cart-total td.last, .checkout-content b, .checkout-content, .mini-cart-total td.last, .tags b, div.jGrowl div.jGrowl-notification div.jGrowl-header, div.jGrowl div.jGrowl-notification div.jGrowl-message h3, .checkout-product table.table thead td, .compare-info tr td:first-child','color');
+													changeColorPicker('g_text_3','a:hover, .post-by span, .comment-by span, .comment-count span, .box-category ul li a.active, div.jGrowl div.jGrowl-closer:hover','color');
+													changeColorPicker('g_button_bg_normal_1','.btn','background-color');
+													changeColorPicker('g_button_bg_hover_1','.product-grid > div > div:hover .cart .btn, .btn-primary:hover ','background-color');
+													changeColorPicker('g_button_text_normal_1','.btn, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary','color');
+													changeColorPicker('g_button_bg_normal_2','.btn-continue, .btn-upload:hover, .button-search, .boss-alphabet a:hover b, .product-info .cart .action .btn, .product-filter .display span.active-gird, .product-filter .display span.active-list, .btn-upload.hover, #button-confirm','background-color');
+													changeColorPicker('g_button_bg_hover_2','.btn-continue:hover, .btn-upload, #button-cart:hover, a.sft_quickshop_icon, .block-homepage .block-1 .bt-more, #button-confirm:hover, .product-info .cart .action .btn:hover, .prod-load-more a:hover','background-color');
+													changeColorPicker('g_button_text_normal_2','.btn, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .boss-alphabet a:hover, a.sft_quickshop_icon, #button-confirm, .block-homepage .block-1 .bt-more a','color');
+													changeColorPicker('h_bg_color','#header, #header #boss_cart .content > b, #boss-login .content b','background-color');
+													changeColorPicker('h_text_nomal','#boss-login > ul > li > span > a, #cart .heading a, #header #search a, #boss_cart .heading a, #currency button.dropdown-toggle','color');
+													changeColorPicker('h_text_hover','#boss-login > ul > li > span > a:hover, #cart .heading a:hover, #header #search a:hover, #boss_cart .heading a:hover','color');
+													changeColorPicker('f_bg_color','#footer_bottom','background-color');
+													changeColorPicker('f_text_1','#footer h3','color');
+													changeColorPicker('f_text_normal_2','#footer .column ul li a, #footer-block-friends a','color');
+													changeColorPicker('f_text_hover_2','#footer .column ul li a:hover, #footer-block-friends a:hover, #footer-block-friends a:hover','color');
+													changeColorPicker('f_text_3','#footer_bottom .footer-link ul li a','color');
+													changeColorPicker('f_text_4','#powered, #powered a','color');
+													changeColorPicker('m_bg_color','#boss_menu','background-color');
+													changeColorPicker('mdrop_bg_color','.dropdown-menu','background-color');
+													changeColorPicker('m_text_normal_1','.menu-title, .navbar-nav > li > a','color');
+													changeColorPicker('m_text_normal_2','.dropdown-menu-inner .option a.parent','color');
+													changeColorPicker('m_text_hover_2','.dropdown-menu-inner .option a.parent:hover','color');
+													changeColorPicker('m_text_normal_3','.dropdown-menu-inner .option ul li a, .dropdown-menu-inner .option .staticblock p','color');
+													changeColorPicker('m_text_hover_3','.dropdown-menu-inner .option ul li a:hover','color');
+													changeColorPicker('m_text_normal_4','.dropdown-menu-inner .option .staticblock h3','color');
+													changeColorPicker('p_name_text_normal','.name a, .mini-cart-info td.name > span, .cart-info table.table tbody td.name > span','color');
+													changeColorPicker('p_name_text_hover','.name a:hover','color');
+													changeColorPicker('p_des_text','.product-list .description','color');
+													changeColorPicker('p_price_text','.price b, .price-new','color');
+													changeColorPicker('p_spec_text','div.price, .price-old, .price s, .product-info .cart .price_info span.price-new, .product-info .cart .price_info span.price','color');
+													changeColorPicker('p_cw_bg_normal','.wishlist a b, .compare a b','background-color');
+													changeColorPicker('p_cw_bg_hover','.wishlist a:hover b, .compare a:hover b','background-color');
+													changeColorPicker('p_cw_text_normal','.wishlist a, .compare a','color');
+													changeColorPicker('p_cw_text_hover','.wishlist a:hover, .compare a:hover, .dropdown-menu-inner .option ul li .wishlist a:hover, .dropdown-menu-inner .option ul li .compare a:hover','color');
+													changeColorPicker('t_page','h1, h2','color');
+													changeColorPicker('t_bread_normal_1','.breadcrumb a','color');
+													changeColorPicker('t_bread_hover_1','.breadcrumb a:hover,.breadcrumb a.last','color');
+													changeColorPicker('t_block_text','.box-heading, .checkout-heading','background-color');
+													changeColorPicker('t_block_bg','.box-heading, .checkout-heading, .checkout-heading a','color');
+													changeColorPicker('t_tab_text','.boss_homefilter_tabs .tabs-headings a, .htabs a','color');
+													changeColorPicker('t_tab_text_hover','.boss_homefilter_tabs .tabs-headings li a:hover, .boss_homefilter_tabs .tabs-headings li.active a, .boss-featured .box-heading, .htabs a.selected, .htabs a.active, .htabs a:hover, h2.ta-header.selected, .box-title, .cart-module h2','color');
+							};	
+	EYE.register(initLayout, 'init');
+})(jQuery)
+function selectedFontStyle($id,$class_name){
+	var idSelect = $('#'+$id);
+	var id = $id;
+	var class_name = $class_name;
+	var font = 	idSelect.val().replace(/\+/g," ");
+	if((idSelect.val() != 'default') && (idSelect.val() != 'Arial') && (idSelect.val() != 'Verdana') && (idSelect.val() != 'Helvetica') && (idSelect.val() != 'Lucida Grande') && (idSelect.val() != 'Trebuchet MS') && (idSelect.val() != 'Times New Roman') && (idSelect.val() != 'Tahoma') && (idSelect.val() != 'Georgia')){
+		
+		$('head').append('<link id="link_' + idSelect + '" rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=' + font + '">');
+	}
+	if(idSelect.val() != 'default'){
+		$(class_name).css('font-family',font);
+	}else{
+		$(class_name).css('font-family','');
+	}
+}
+
+function selectedFontSize($id,$class_name){
+	var idSelect = $('#'+$id);
+	var id = $id;
+	var class_name = $class_name;
+	if(idSelect.val() != 'default'){
+		$(class_name).css('font-size',idSelect.val());
+	}else{
+		$(class_name).css('font-size','');
+	}
+}
+function changeTemplate($themeName) {
+	themeName = $themeName;
+	if(themeName!='custom'){
+	themeData = colorsData[themeName];
+																					$("body, .modal-content").css('background-color','#' + themeData['g_bg_color']);
+								$("#g_bg_color").css('background-color', '#' + themeData['g_bg_color']);
+								$("#g_bg_color").val(themeData['g_bg_color']);
+																																														
+						$("body, a, input, button, select, textarea, .boss-alphabet a, .product-info .cart .price_info span.price-old, .product-filter .sort select, .product-filter .limit select, .cart-info table.table tbody .model, .wishlist-info table.table tbody .model, .checkout-product table.table tbody .model, .checkout-content label, .checkout-content a.colorbox, .checkout-content a.colorbox b, .checkout-content p, .mini-cart-total td, .form-control, .product-info h1, #search-form #search-form-bot input, form.register .newsletter table.form td.input span, .prod-load-more a").css('color','#' + themeData['g_text_1']);
+						$("#g_text_1").css('background-color', '#' + themeData['g_text_1']);
+						$("#g_text_1").val(themeData['g_text_1']);
+																							
+						$("h3, form.register td, .login-content b, .product-info .title_text b, .product-info .options .box-check b, .attribute td, .block .article-title a, .block .comment-title a, .article-name a, .product-filter .sort b, .product-filter .limit b, .form-comment-container label.required, .cart-info table thead tr td, .wishlist-info table thead tr td, .wishlist-info table.table tbody .name div, .cart-info table.table tbody .name div, table.radio td, .cart-module .content table tr td, .cart-total td.last, .checkout-content b, .checkout-content, .mini-cart-total td.last, .tags b, div.jGrowl div.jGrowl-notification div.jGrowl-header, div.jGrowl div.jGrowl-notification div.jGrowl-message h3, .checkout-product table.table thead td, .compare-info tr td:first-child").css('color','#' + themeData['g_text_2']);
+						$("#g_text_2").css('background-color', '#' + themeData['g_text_2']);
+						$("#g_text_2").val(themeData['g_text_2']);
+																							
+						$("a:hover, .post-by span, .comment-by span, .comment-count span, .box-category ul li a.active, div.jGrowl div.jGrowl-closer:hover").css('color','#' + themeData['g_text_3']);
+						$("#g_text_3").css('background-color', '#' + themeData['g_text_3']);
+						$("#g_text_3").val(themeData['g_text_3']);
+																							
+						$(".btn").css('background-color','#' + themeData['g_button_bg_normal_1']);
+						$("#g_button_bg_normal_1").css('background-color', '#' + themeData['g_button_bg_normal_1']);
+						$("#g_button_bg_normal_1").val(themeData['g_button_bg_normal_1']);
+																							
+						$(".product-grid > div > div:hover .cart .btn, .btn-primary:hover ").css('background-color','#' + themeData['g_button_bg_hover_1']);
+						$("#g_button_bg_hover_1").css('background-color', '#' + themeData['g_button_bg_hover_1']);
+						$("#g_button_bg_hover_1").val(themeData['g_button_bg_hover_1']);
+																							
+						$(".btn, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary").css('color','#' + themeData['g_button_text_normal_1']);
+						$("#g_button_text_normal_1").css('background-color', '#' + themeData['g_button_text_normal_1']);
+						$("#g_button_text_normal_1").val(themeData['g_button_text_normal_1']);
+																							
+						$(".btn-continue, .btn-upload:hover, .button-search, .boss-alphabet a:hover b, .product-info .cart .action .btn, .product-filter .display span.active-gird, .product-filter .display span.active-list, .btn-upload.hover, #button-confirm").css('background-color','#' + themeData['g_button_bg_normal_2']);
+						$("#g_button_bg_normal_2").css('background-color', '#' + themeData['g_button_bg_normal_2']);
+						$("#g_button_bg_normal_2").val(themeData['g_button_bg_normal_2']);
+																							
+						$(".btn-continue:hover, .btn-upload, #button-cart:hover, a.sft_quickshop_icon, .block-homepage .block-1 .bt-more, #button-confirm:hover, .product-info .cart .action .btn:hover, .prod-load-more a:hover").css('background-color','#' + themeData['g_button_bg_hover_2']);
+						$("#g_button_bg_hover_2").css('background-color', '#' + themeData['g_button_bg_hover_2']);
+						$("#g_button_bg_hover_2").val(themeData['g_button_bg_hover_2']);
+																							
+						$(".btn, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .boss-alphabet a:hover, a.sft_quickshop_icon, #button-confirm, .block-homepage .block-1 .bt-more a").css('color','#' + themeData['g_button_text_normal_2']);
+						$("#g_button_text_normal_2").css('background-color', '#' + themeData['g_button_text_normal_2']);
+						$("#g_button_text_normal_2").val(themeData['g_button_text_normal_2']);
+																									$("#header, #header #boss_cart .content > b, #boss-login .content b").css('background-color','#' + themeData['h_bg_color']);
+								$("#h_bg_color").css('background-color', '#' + themeData['h_bg_color']);
+								$("#h_bg_color").val(themeData['h_bg_color']);
+																																														
+						$("#boss-login > ul > li > span > a, #cart .heading a, #header #search a, #boss_cart .heading a, #currency button.dropdown-toggle").css('color','#' + themeData['h_text_nomal']);
+						$("#h_text_nomal").css('background-color', '#' + themeData['h_text_nomal']);
+						$("#h_text_nomal").val(themeData['h_text_nomal']);
+																							
+						$("#boss-login > ul > li > span > a:hover, #cart .heading a:hover, #header #search a:hover, #boss_cart .heading a:hover").css('color','#' + themeData['h_text_hover']);
+						$("#h_text_hover").css('background-color', '#' + themeData['h_text_hover']);
+						$("#h_text_hover").val(themeData['h_text_hover']);
+																									$("#footer_bottom").css('background-color','#' + themeData['f_bg_color']);
+								$("#f_bg_color").css('background-color', '#' + themeData['f_bg_color']);
+								$("#f_bg_color").val(themeData['f_bg_color']);
+																																														
+						$("#footer h3").css('color','#' + themeData['f_text_1']);
+						$("#f_text_1").css('background-color', '#' + themeData['f_text_1']);
+						$("#f_text_1").val(themeData['f_text_1']);
+																							
+						$("#footer .column ul li a, #footer-block-friends a").css('color','#' + themeData['f_text_normal_2']);
+						$("#f_text_normal_2").css('background-color', '#' + themeData['f_text_normal_2']);
+						$("#f_text_normal_2").val(themeData['f_text_normal_2']);
+																							
+						$("#footer .column ul li a:hover, #footer-block-friends a:hover, #footer-block-friends a:hover").css('color','#' + themeData['f_text_hover_2']);
+						$("#f_text_hover_2").css('background-color', '#' + themeData['f_text_hover_2']);
+						$("#f_text_hover_2").val(themeData['f_text_hover_2']);
+																							
+						$("#footer_bottom .footer-link ul li a").css('color','#' + themeData['f_text_3']);
+						$("#f_text_3").css('background-color', '#' + themeData['f_text_3']);
+						$("#f_text_3").val(themeData['f_text_3']);
+																							
+						$("#powered, #powered a").css('color','#' + themeData['f_text_4']);
+						$("#f_text_4").css('background-color', '#' + themeData['f_text_4']);
+						$("#f_text_4").val(themeData['f_text_4']);
+																									$("#boss_menu").css('background-color','#' + themeData['m_bg_color']);
+								$("#m_bg_color").css('background-color', '#' + themeData['m_bg_color']);
+								$("#m_bg_color").val(themeData['m_bg_color']);
+																																																$(".dropdown-menu").css('background-color','#' + themeData['mdrop_bg_color']);
+								$("#mdrop_bg_color").css('background-color', '#' + themeData['mdrop_bg_color']);
+								$("#mdrop_bg_color").val(themeData['mdrop_bg_color']);
+																																														
+						$(".menu-title, .navbar-nav > li > a").css('color','#' + themeData['m_text_normal_1']);
+						$("#m_text_normal_1").css('background-color', '#' + themeData['m_text_normal_1']);
+						$("#m_text_normal_1").val(themeData['m_text_normal_1']);
+																							
+						$(".dropdown-menu-inner .option a.parent").css('color','#' + themeData['m_text_normal_2']);
+						$("#m_text_normal_2").css('background-color', '#' + themeData['m_text_normal_2']);
+						$("#m_text_normal_2").val(themeData['m_text_normal_2']);
+																							
+						$(".dropdown-menu-inner .option a.parent:hover").css('color','#' + themeData['m_text_hover_2']);
+						$("#m_text_hover_2").css('background-color', '#' + themeData['m_text_hover_2']);
+						$("#m_text_hover_2").val(themeData['m_text_hover_2']);
+																							
+						$(".dropdown-menu-inner .option ul li a, .dropdown-menu-inner .option .staticblock p").css('color','#' + themeData['m_text_normal_3']);
+						$("#m_text_normal_3").css('background-color', '#' + themeData['m_text_normal_3']);
+						$("#m_text_normal_3").val(themeData['m_text_normal_3']);
+																							
+						$(".dropdown-menu-inner .option ul li a:hover").css('color','#' + themeData['m_text_hover_3']);
+						$("#m_text_hover_3").css('background-color', '#' + themeData['m_text_hover_3']);
+						$("#m_text_hover_3").val(themeData['m_text_hover_3']);
+																							
+						$(".dropdown-menu-inner .option .staticblock h3").css('color','#' + themeData['m_text_normal_4']);
+						$("#m_text_normal_4").css('background-color', '#' + themeData['m_text_normal_4']);
+						$("#m_text_normal_4").val(themeData['m_text_normal_4']);
+																							
+						$(".name a, .mini-cart-info td.name > span, .cart-info table.table tbody td.name > span").css('color','#' + themeData['p_name_text_normal']);
+						$("#p_name_text_normal").css('background-color', '#' + themeData['p_name_text_normal']);
+						$("#p_name_text_normal").val(themeData['p_name_text_normal']);
+																							
+						$(".name a:hover").css('color','#' + themeData['p_name_text_hover']);
+						$("#p_name_text_hover").css('background-color', '#' + themeData['p_name_text_hover']);
+						$("#p_name_text_hover").val(themeData['p_name_text_hover']);
+																							
+						$(".product-list .description").css('color','#' + themeData['p_des_text']);
+						$("#p_des_text").css('background-color', '#' + themeData['p_des_text']);
+						$("#p_des_text").val(themeData['p_des_text']);
+																							
+						$(".price b, .price-new").css('color','#' + themeData['p_price_text']);
+						$("#p_price_text").css('background-color', '#' + themeData['p_price_text']);
+						$("#p_price_text").val(themeData['p_price_text']);
+																							
+						$("div.price, .price-old, .price s, .product-info .cart .price_info span.price-new, .product-info .cart .price_info span.price").css('color','#' + themeData['p_spec_text']);
+						$("#p_spec_text").css('background-color', '#' + themeData['p_spec_text']);
+						$("#p_spec_text").val(themeData['p_spec_text']);
+																							
+						$(".wishlist a b, .compare a b").css('background-color','#' + themeData['p_cw_bg_normal']);
+						$("#p_cw_bg_normal").css('background-color', '#' + themeData['p_cw_bg_normal']);
+						$("#p_cw_bg_normal").val(themeData['p_cw_bg_normal']);
+																							
+						$(".wishlist a:hover b, .compare a:hover b").css('background-color','#' + themeData['p_cw_bg_hover']);
+						$("#p_cw_bg_hover").css('background-color', '#' + themeData['p_cw_bg_hover']);
+						$("#p_cw_bg_hover").val(themeData['p_cw_bg_hover']);
+																							
+						$(".wishlist a, .compare a").css('color','#' + themeData['p_cw_text_normal']);
+						$("#p_cw_text_normal").css('background-color', '#' + themeData['p_cw_text_normal']);
+						$("#p_cw_text_normal").val(themeData['p_cw_text_normal']);
+																							
+						$(".wishlist a:hover, .compare a:hover, .dropdown-menu-inner .option ul li .wishlist a:hover, .dropdown-menu-inner .option ul li .compare a:hover").css('color','#' + themeData['p_cw_text_hover']);
+						$("#p_cw_text_hover").css('background-color', '#' + themeData['p_cw_text_hover']);
+						$("#p_cw_text_hover").val(themeData['p_cw_text_hover']);
+																							
+						$("h1, h2").css('color','#' + themeData['t_page']);
+						$("#t_page").css('background-color', '#' + themeData['t_page']);
+						$("#t_page").val(themeData['t_page']);
+																							
+						$(".breadcrumb a").css('color','#' + themeData['t_bread_normal_1']);
+						$("#t_bread_normal_1").css('background-color', '#' + themeData['t_bread_normal_1']);
+						$("#t_bread_normal_1").val(themeData['t_bread_normal_1']);
+																							
+						$(".breadcrumb a:hover,.breadcrumb a.last").css('color','#' + themeData['t_bread_hover_1']);
+						$("#t_bread_hover_1").css('background-color', '#' + themeData['t_bread_hover_1']);
+						$("#t_bread_hover_1").val(themeData['t_bread_hover_1']);
+																							
+						$(".box-heading, .checkout-heading").css('background-color','#' + themeData['t_block_text']);
+						$("#t_block_text").css('background-color', '#' + themeData['t_block_text']);
+						$("#t_block_text").val(themeData['t_block_text']);
+																							
+						$(".box-heading, .checkout-heading, .checkout-heading a").css('color','#' + themeData['t_block_bg']);
+						$("#t_block_bg").css('background-color', '#' + themeData['t_block_bg']);
+						$("#t_block_bg").val(themeData['t_block_bg']);
+																							
+						$(".boss_homefilter_tabs .tabs-headings a, .htabs a").css('color','#' + themeData['t_tab_text']);
+						$("#t_tab_text").css('background-color', '#' + themeData['t_tab_text']);
+						$("#t_tab_text").val(themeData['t_tab_text']);
+																							
+						$(".boss_homefilter_tabs .tabs-headings li a:hover, .boss_homefilter_tabs .tabs-headings li.active a, .boss-featured .box-heading, .htabs a.selected, .htabs a.active, .htabs a:hover, h2.ta-header.selected, .box-title, .cart-module h2").css('color','#' + themeData['t_tab_text_hover']);
+						$("#t_tab_text_hover").css('background-color', '#' + themeData['t_tab_text_hover']);
+						$("#t_tab_text_hover").val(themeData['t_tab_text_hover']);
+						
+	}
+	if(themeName=='custom'){
+																										$("body, .modal-content").css('background-color',"");
+								$("#g_bg_color").css('background-color', "");
+								$("#g_bg_color").val("");
+																																																									$("body, a, input, button, select, textarea, .boss-alphabet a, .product-info .cart .price_info span.price-old, .product-filter .sort select, .product-filter .limit select, .cart-info table.table tbody .model, .wishlist-info table.table tbody .model, .checkout-product table.table tbody .model, .checkout-content label, .checkout-content a.colorbox, .checkout-content a.colorbox b, .checkout-content p, .mini-cart-total td, .form-control, .product-info h1, #search-form #search-form-bot input, form.register .newsletter table.form td.input span, .prod-load-more a").css('color',"");
+								$("#g_text_1").css('background-color', "");
+								$("#g_text_1").val("");
+																																				$("h3, form.register td, .login-content b, .product-info .title_text b, .product-info .options .box-check b, .attribute td, .block .article-title a, .block .comment-title a, .article-name a, .product-filter .sort b, .product-filter .limit b, .form-comment-container label.required, .cart-info table thead tr td, .wishlist-info table thead tr td, .wishlist-info table.table tbody .name div, .cart-info table.table tbody .name div, table.radio td, .cart-module .content table tr td, .cart-total td.last, .checkout-content b, .checkout-content, .mini-cart-total td.last, .tags b, div.jGrowl div.jGrowl-notification div.jGrowl-header, div.jGrowl div.jGrowl-notification div.jGrowl-message h3, .checkout-product table.table thead td, .compare-info tr td:first-child").css('color',"");
+								$("#g_text_2").css('background-color', "");
+								$("#g_text_2").val("");
+																																				$("a:hover, .post-by span, .comment-by span, .comment-count span, .box-category ul li a.active, div.jGrowl div.jGrowl-closer:hover").css('color',"");
+								$("#g_text_3").css('background-color', "");
+								$("#g_text_3").val("");
+																																				$(".btn").css('background-color',"");
+								$("#g_button_bg_normal_1").css('background-color', "");
+								$("#g_button_bg_normal_1").val("");
+																																				$(".product-grid > div > div:hover .cart .btn, .btn-primary:hover ").css('background-color',"");
+								$("#g_button_bg_hover_1").css('background-color', "");
+								$("#g_button_bg_hover_1").val("");
+																																				$(".btn, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary").css('color',"");
+								$("#g_button_text_normal_1").css('background-color', "");
+								$("#g_button_text_normal_1").val("");
+																																				$(".btn-continue, .btn-upload:hover, .button-search, .boss-alphabet a:hover b, .product-info .cart .action .btn, .product-filter .display span.active-gird, .product-filter .display span.active-list, .btn-upload.hover, #button-confirm").css('background-color',"");
+								$("#g_button_bg_normal_2").css('background-color', "");
+								$("#g_button_bg_normal_2").val("");
+																																				$(".btn-continue:hover, .btn-upload, #button-cart:hover, a.sft_quickshop_icon, .block-homepage .block-1 .bt-more, #button-confirm:hover, .product-info .cart .action .btn:hover, .prod-load-more a:hover").css('background-color',"");
+								$("#g_button_bg_hover_2").css('background-color', "");
+								$("#g_button_bg_hover_2").val("");
+																																				$(".btn, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .boss-alphabet a:hover, a.sft_quickshop_icon, #button-confirm, .block-homepage .block-1 .bt-more a").css('color',"");
+								$("#g_button_text_normal_2").css('background-color', "");
+								$("#g_button_text_normal_2").val("");
+																													$("#header, #header #boss_cart .content > b, #boss-login .content b").css('background-color',"");
+								$("#h_bg_color").css('background-color', "");
+								$("#h_bg_color").val("");
+																																																									$("#boss-login > ul > li > span > a, #cart .heading a, #header #search a, #boss_cart .heading a, #currency button.dropdown-toggle").css('color',"");
+								$("#h_text_nomal").css('background-color', "");
+								$("#h_text_nomal").val("");
+																																				$("#boss-login > ul > li > span > a:hover, #cart .heading a:hover, #header #search a:hover, #boss_cart .heading a:hover").css('color',"");
+								$("#h_text_hover").css('background-color', "");
+								$("#h_text_hover").val("");
+																													$("#footer_bottom").css('background-color',"");
+								$("#f_bg_color").css('background-color', "");
+								$("#f_bg_color").val("");
+																																																									$("#footer h3").css('color',"");
+								$("#f_text_1").css('background-color', "");
+								$("#f_text_1").val("");
+																																				$("#footer .column ul li a, #footer-block-friends a").css('color',"");
+								$("#f_text_normal_2").css('background-color', "");
+								$("#f_text_normal_2").val("");
+																																				$("#footer .column ul li a:hover, #footer-block-friends a:hover, #footer-block-friends a:hover").css('color',"");
+								$("#f_text_hover_2").css('background-color', "");
+								$("#f_text_hover_2").val("");
+																																				$("#footer_bottom .footer-link ul li a").css('color',"");
+								$("#f_text_3").css('background-color', "");
+								$("#f_text_3").val("");
+																																				$("#powered, #powered a").css('color',"");
+								$("#f_text_4").css('background-color', "");
+								$("#f_text_4").val("");
+																													$("#boss_menu").css('background-color',"");
+								$("#m_bg_color").css('background-color', "");
+								$("#m_bg_color").val("");
+																																																		$(".dropdown-menu").css('background-color',"");
+								$("#mdrop_bg_color").css('background-color', "");
+								$("#mdrop_bg_color").val("");
+																																																									$(".menu-title, .navbar-nav > li > a").css('color',"");
+								$("#m_text_normal_1").css('background-color', "");
+								$("#m_text_normal_1").val("");
+																																				$(".dropdown-menu-inner .option a.parent").css('color',"");
+								$("#m_text_normal_2").css('background-color', "");
+								$("#m_text_normal_2").val("");
+																																				$(".dropdown-menu-inner .option a.parent:hover").css('color',"");
+								$("#m_text_hover_2").css('background-color', "");
+								$("#m_text_hover_2").val("");
+																																				$(".dropdown-menu-inner .option ul li a, .dropdown-menu-inner .option .staticblock p").css('color',"");
+								$("#m_text_normal_3").css('background-color', "");
+								$("#m_text_normal_3").val("");
+																																				$(".dropdown-menu-inner .option ul li a:hover").css('color',"");
+								$("#m_text_hover_3").css('background-color', "");
+								$("#m_text_hover_3").val("");
+																																				$(".dropdown-menu-inner .option .staticblock h3").css('color',"");
+								$("#m_text_normal_4").css('background-color', "");
+								$("#m_text_normal_4").val("");
+																																				$(".name a, .mini-cart-info td.name > span, .cart-info table.table tbody td.name > span").css('color',"");
+								$("#p_name_text_normal").css('background-color', "");
+								$("#p_name_text_normal").val("");
+																																				$(".name a:hover").css('color',"");
+								$("#p_name_text_hover").css('background-color', "");
+								$("#p_name_text_hover").val("");
+																																				$(".product-list .description").css('color',"");
+								$("#p_des_text").css('background-color', "");
+								$("#p_des_text").val("");
+																																				$(".price b, .price-new").css('color',"");
+								$("#p_price_text").css('background-color', "");
+								$("#p_price_text").val("");
+																																				$("div.price, .price-old, .price s, .product-info .cart .price_info span.price-new, .product-info .cart .price_info span.price").css('color',"");
+								$("#p_spec_text").css('background-color', "");
+								$("#p_spec_text").val("");
+																																				$(".wishlist a b, .compare a b").css('background-color',"");
+								$("#p_cw_bg_normal").css('background-color', "");
+								$("#p_cw_bg_normal").val("");
+																																				$(".wishlist a:hover b, .compare a:hover b").css('background-color',"");
+								$("#p_cw_bg_hover").css('background-color', "");
+								$("#p_cw_bg_hover").val("");
+																																				$(".wishlist a, .compare a").css('color',"");
+								$("#p_cw_text_normal").css('background-color', "");
+								$("#p_cw_text_normal").val("");
+																																				$(".wishlist a:hover, .compare a:hover, .dropdown-menu-inner .option ul li .wishlist a:hover, .dropdown-menu-inner .option ul li .compare a:hover").css('color',"");
+								$("#p_cw_text_hover").css('background-color', "");
+								$("#p_cw_text_hover").val("");
+																																				$("h1, h2").css('color',"");
+								$("#t_page").css('background-color', "");
+								$("#t_page").val("");
+																																				$(".breadcrumb a").css('color',"");
+								$("#t_bread_normal_1").css('background-color', "");
+								$("#t_bread_normal_1").val("");
+																																				$(".breadcrumb a:hover,.breadcrumb a.last").css('color',"");
+								$("#t_bread_hover_1").css('background-color', "");
+								$("#t_bread_hover_1").val("");
+																																				$(".box-heading, .checkout-heading").css('background-color',"");
+								$("#t_block_text").css('background-color', "");
+								$("#t_block_text").val("");
+																																				$(".box-heading, .checkout-heading, .checkout-heading a").css('color',"");
+								$("#t_block_bg").css('background-color', "");
+								$("#t_block_bg").val("");
+																																				$(".boss_homefilter_tabs .tabs-headings a, .htabs a").css('color',"");
+								$("#t_tab_text").css('background-color', "");
+								$("#t_tab_text").val("");
+																																				$(".boss_homefilter_tabs .tabs-headings li a:hover, .boss_homefilter_tabs .tabs-headings li.active a, .boss-featured .box-heading, .htabs a.selected, .htabs a.active, .htabs a:hover, h2.ta-header.selected, .box-title, .cart-module h2").css('color',"");
+								$("#t_tab_text_hover").css('background-color', "");
+								$("#t_tab_text_hover").val("");
+								}
+};
+function changeProductView(class_left_right,class_content_str,class_product_str){
+	var class_left = class_left_right;
+	var class_right = class_left_right;
+	var class_content_arr = new Array();
+	var class_product_arr = new Array();
+	class_content_arr = class_content_str.split("-");
+	class_product_arr = class_product_str.split("-");
+	if($("#column-right").length > 0 && $("#column-left").length > 0){
+		class_content = class_content_arr[2];
+		class_product = class_product_arr[2];
+	}else if($("#column-right").length > 0 || $("#column-left").length > 0){
+		class_content = class_content_arr[1];
+		class_product = class_product_arr[1];
+	}else{
+		class_content = class_content_arr[0];
+		class_product = class_product_arr[0];
+	}
+	$('.product-grid > div').removeClass();
+	$('.product-grid > div').addClass('col-md-'+class_product + ' col-sm-'+class_product + ' col-xs-24');
+	
+	$('.product-list > div').removeClass();
+	$('.product-list > div').addClass('col-md-'+class_product + ' col-sm-'+class_product + ' col-xs-24');
+	
+	$('#content').removeClass();
+	$('#content').addClass('col-md-'+class_content + ' col-sm-'+class_content + ' col-xs-24');
+	
+	if($("#column-left").length > 0)
+	{
+		$('#column-left').removeClass();
+		$('#column-left').addClass('col-md-'+class_left + ' col-sm-'+class_left + ' col-xs-24');
+	}
+	if($("#column-right").length > 0)
+	{
+		$('#column-right').removeClass();
+		$('#column-right').addClass('col-md-'+class_right + ' col-sm-'+class_right + ' col-xs-24 pull-right');
+	}
+}
+function changeModeCSS($mode_class){
+	var mode_class = $mode_class;
+	$('#page-container').removeClass();
+	$('#page-container').addClass(mode_class);
+	$.totalStorage(jsprefix + 'changeModeCSS', mode_class);
+}
+function addBackground($link_image,$location){
+	var link_image = $link_image;
+	var location = $location;
+	var repeat = 'repeat';
+	var position = 'left top';
+	switch(location){
+		case 'body':
+			if(link_image != ''){
+				$("body").css('background-image', "url(image/data/background/" + link_image + ")");
+				$("body").css('background-repeat', repeat);
+				$("body").css('background-position', position);
+			}else{
+				$("body").css('background-image','');
+				$("body").css('background-repeat', '');
+				$("body").css('background-position','');
+			}
+			$.totalStorage(jsprefix + 'addBackground_body', link_image);
+			
+			break;
+		case 'footer':
+			if(link_image != ''){
+				$("#footer").css('background-image', "url(image/data/background/" + link_image + ")");
+				$("#footer").css('background-repeat', repeat);
+				$("#footer").css('background-position', position);
+			}else{
+				$("#footer").css('background-image', '');
+				$("#footer").css('background-repeat', '');
+				$("#footer").css('background-position','');
+			}
+			$.totalStorage(jsprefix + 'addBackground_footer', link_image);
+			
+			break;
+		case 'header':
+			if(link_image != ''){
+				$("#header").css('background-image', "url(image/data/background/" + link_image + ")");
+				$("#header").css('background-repeat', repeat);
+				$("#header").css('background-position', position);
+			}else{
+				$("#header").css('background-image', '');
+				$("#header").css('background-repeat', '');
+				$("#header").css('background-position', '');
+			}
+			$.totalStorage(jsprefix + 'addBackground_header', link_image);
+			
+			break;
+	}
+}
+function storeTotalStorage(class_left_right,class_content_str,class_product_str){
+	var class_array_new = new Array();
+	class_array_new[0] = class_left_right;
+	class_array_new[1] = class_content_str;
+	class_array_new[2] = class_product_str;
+	$.totalStorage(jsprefix + 'changeProductView', class_array_new);
+}
+function loadGird(){
+		var class_left_right = '6';
+	var class_content_str = '24-18-12';
+	var class_product_str = '6-8-12';
+	changeProductView(class_left_right,class_content_str,class_product_str);
+	document.getElementById('view_'+ class_left_right + '_' + class_content_str + '_' + class_product_str).checked=true;
+}
+function resetFont($class_name,$id_style,$id_size){
+	$($class_name).css('font-family','');
+	$($class_name).css('font-size','');
+}
+function ResetAll(){
+	var Mode_class_old = 'wide';
+	changeModeCSS(Mode_class_old);
+	document.getElementById('mode_'+ Mode_class_old).checked=true;
+	loadGird();
+	$.totalStorage(jsprefix + 'changeProductView', null);
+	var template = 'custom';
+	$("#temp_setting").val(template);
+	addBackground('','body');
+	addBackground('','header');
+	addBackground('','footer');
+					$('#g_fstyle').val('default');
+			$('#g_fsize').val('default');
+			resetFont('body,a, div.jGrowl div.jGrowl-notification div.jGrowl-message h3, #search-form #search-form-bot .input_key input','g_fstyle','g_fsize');
+					$('#g_addcart_fstyle').val('default');
+			$('#g_addcart_fsize').val('default');
+			resetFont('a.sft_quickshop_icon, .btn, .compare a, .wishlist a, #button-confirm, .prod-load-more a, .block-homepage .block-1 .bt-more a','g_addcart_fstyle','g_addcart_fsize');
+					$('#h_fstyle_1').val('default');
+			$('#h_fsize_1').val('default');
+			resetFont('#boss-login > ul > li > span > a, #header #search a, #boss_cart .heading a, #currency button.dropdown-toggle','h_fstyle_1','h_fsize_1');
+					$('#f_fstyle_1').val('default');
+			$('#f_fsize_1').val('default');
+			resetFont('#footer .column ul li a, #footer-block-friends a, #powered, #powered a','f_fstyle_1','f_fsize_1');
+					$('#f_fstyle_2').val('default');
+			$('#f_fsize_2').val('default');
+			resetFont('#footer h3, #footer_bottom .footer-link ul li a','f_fstyle_2','f_fsize_2');
+					$('#m_fstyle_1').val('default');
+			$('#m_fsize_1').val('default');
+			resetFont('.menu-title','m_fstyle_1','m_fsize_1');
+					$('#m_fstyle_2').val('default');
+			$('#m_fsize_2').val('default');
+			resetFont('.dropdown-menu-inner .option a.parent','m_fstyle_2','m_fsize_2');
+					$('#m_fstyle_3').val('default');
+			$('#m_fsize_3').val('default');
+			resetFont('.dropdown-menu-inner .option .staticblock h3, .dropdown-menu-inner .option ul li a, .dropdown-menu-inner .option .staticblock p','m_fstyle_3','m_fsize_3');
+					$('#p_name_fstyle').val('default');
+			$('#p_name_fsize').val('default');
+			resetFont('.name a, .mini-cart-info td.name > span, .cart-info table.table tbody td.name > span, .boss_article-item h2 a, .block .article-title a, .block .comment-title a','p_name_fstyle','p_name_fsize');
+					$('#p_des_fstyle').val('default');
+			$('#p_des_fsize').val('default');
+			resetFont('.product-list .description','p_des_fstyle','p_des_fsize');
+					$('#p_price_fstyle').val('default');
+			$('#p_price_fsize').val('default');
+			resetFont('div.price, .price b, .price-new, .price-old, .price s, .product-info .cart .price_info span.price, .mini-cart-total td, .cart-total td','p_price_fstyle','p_price_fsize');
+					$('#t_page_fstyle').val('default');
+			$('#t_page_fsize').val('default');
+			resetFont('h1, h2, h3, .tags b, div.jGrowl div.jGrowl-notification div.jGrowl-header','t_page_fstyle','t_page_fsize');
+					$('#t_block_fstyle').val('default');
+			$('#t_block_fsize').val('default');
+			resetFont('.boss_homefilter_tabs .tabs-headings a, .htabs a, .box-heading, .checkout-heading a, .box-title, .cart-module h2, h2.ta-header, .boss-featured .box-heading, .cart-info table thead tr td, .wishlist-info table thead tr td, .checkout-product table.table thead td, .checkout-heading, .compare-info tr td:first-child','t_block_fstyle','t_block_fsize');
+					$('#t_bread_fstyle').val('default');
+			$('#t_bread_fsize').val('default');
+			resetFont('.breadcrumb a','t_bread_fstyle','t_bread_fsize');
+			changeTemplate(template);
+}
+mode_class = $.totalStorage(jsprefix + 'changeModeCSS');
+if (mode_class) {
+	changeModeCSS(mode_class);
+	document.getElementById('mode_'+ mode_class).checked=true;
+}
+
+link_image_body = $.totalStorage(jsprefix + 'addBackground_body');
+if (link_image_body) {
+	addBackground(link_image_body,'body');
+}
+link_image_header = $.totalStorage(jsprefix + 'addBackground_header');
+if (link_image_header) {
+	addBackground(link_image_header,'header');
+}
+//--></script>	<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_sneaker/stylesheet/bossthemes/boss_editorthemes.css" media="screen" />	<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_sneaker/stylesheet/bossthemes/colorpicker.css" media="screen" />	<link rel="stylesheet" type="text/css" href="catalog/view/theme/bt_sneaker/stylesheet/bossthemes/layout.css" media="screen" />	<script type="text/javascript"><!--	
+	$(document).ready(function() {			
+		$('.hex').focus(function() {			
+			$('.colorpicker').hide();			
+		});		
+		$(document).click(function(e) {
+			var checkName=e.target.className;
+			if (checkName != 'colorpicker' && checkName != 'colorpicker_color' && checkName != 'check_hide' && checkName != 'colorpicker_hue' && checkName != 'colorpicker_new_color' && checkName != 'colorpicker_current_color' && checkName != 'colorpicker_hex' && checkName != 'colorpicker_rgb_r colorpicker_field' && checkName != 'colorpicker_rgb_g colorpicker_field' && checkName != 'colorpicker_rgb_b colorpicker_field' && checkName != 'colorpicker_hsb_h colorpicker_field' && checkName != 'colorpicker_hsb_s colorpicker_field' && checkName != 'colorpicker_hsb_b colorpicker_field'){			
+				$('.colorpicker').hide();			
+			}
+		});		
+	});
+	//--></script>
+	<script type="text/javascript"><!--
+		$('.cpanelContainer').css("display", "block");
+	var colorsData = jQuery.parseJSON($("#colors_data").val());
+		var id_Color_List = Array(
+	'g_bg_color', 'g_text_1', 'g_text_2', 'g_text_3', 'g_button_bg_normal_1', 'g_button_bg_hover_1', 'g_button_text_normal_1', 'g_button_bg_normal_2', 'g_button_bg_hover_2', 'g_button_text_normal_2', 'h_bg_color', 'h_text_nomal', 'h_text_hover', 'f_bg_color', 'f_text_1', 'f_text_normal_2', 'f_text_hover_2', 'f_text_3', 'f_text_4', 'm_bg_color', 'mdrop_bg_color', 'm_text_normal_1', 'm_text_normal_2', 'm_text_hover_2', 'm_text_normal_3', 'm_text_hover_3', 'm_text_normal_4', 'p_name_text_normal', 'p_name_text_hover', 'p_des_text', 'p_price_text', 'p_spec_text', 'p_cw_bg_normal', 'p_cw_bg_hover', 'p_cw_text_normal', 'p_cw_text_hover', 't_page', 't_bread_normal_1', 't_bread_hover_1', 't_block_text', 't_block_bg', 't_tab_text', 't_tab_text_hover');
+
+	//--></script>
+	<script type="text/javascript"><!--
+	$(document).ready(function() {
+		class_array_new = $.totalStorage(jsprefix + 'changeProductView');
+		if (class_array_new) {
+			changeProductView(class_array_new[0],class_array_new[1],class_array_new[2]);
+			$('#view_'+ class_array_new[0] + '_' + class_array_new[1] + '_' + class_array_new[2]).attr("checked",true);
+		}else{
+			loadGird();
+		}
+		var template = 'custom';
+		//changeTemplate(template);
+		$('.display').bind('click', function() {
+			if (!(($('#content .product-grid .col-xs-24').length)||($('#content .product-list .col-xs-24').length))) {
+				loadGird();
+			}
+		});
+	});
+	//--></script>
+	</div> <!-- End .cpanelContainer -->
+	";

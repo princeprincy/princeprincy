@@ -1,0 +1,52 @@
+.boss-alphabet {}
+.boss-alphabet ul{
+	padding-left:0
+}
+.box-content .boss-alphabet ul li{
+	list-style:none;
+	display:inline;
+	text-align: center;	
+	margin-right:1px;
+	margin-bottom:1px;
+}
+.boss-alphabet a{
+    color: #969696;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 25px;
+    text-transform: uppercase;
+    transition-duration: 0s;
+    width: 30px;
+	position:relative
+}
+.boss-alphabet a:hover{
+	color:#fff;
+	
+	border:none;
+	text-decoration:none;
+}
+.boss-alphabet a span{position:relative; z-index:2}
+.boss-alphabet a:hover b{
+	background: none repeat scroll 0 0 #C30005;
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: -3px;
+    width: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

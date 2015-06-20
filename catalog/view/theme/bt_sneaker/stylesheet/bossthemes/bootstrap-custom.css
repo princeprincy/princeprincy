@@ -1,0 +1,62 @@
+.col-md-cs5{
+	width:20%
+} 
+.col-md-cs5{
+    position: relative;
+	  min-height: 1px;
+	  padding-left: 10px;
+	  padding-right: 10px;
+}
+.col-md-cs5 {
+    float: left;
+  }
+  
+h1{color:#c30005; font-size:18px; font-family: 'Advent Pro', sans-serif; text-transform:uppercase; font-weight:700; margin:0 0 17px;}
+h2{color:#c30005; font-size:16px; font-family: 'Advent Pro', sans-serif; text-transform:uppercase; font-weight:700; margin:0 0 10px;}
+h3{color:#141414; font-size:16px; font-family: 'Advent Pro', sans-serif; text-transform:uppercase; font-weight:700; margin:0 0 10px;}
+input, button, select, textarea{color:#aaa}
+.btn{
+	background-color: #DCDCDC;
+    border: medium none;
+    border-radius: 0;
+    color: #FFFFFF;
+    font-family: 'Advent Pro',sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px 18px;
+    text-transform: uppercase;
+	transition:background 0.5s ease 0s;
+	-moz-transition:background 0.5s ease 0s;
+	-webkit-transition:background 0.5s ease 0s;
+} 
+.btn-primary:hover, .open .dropdown-toggle.btn-primary{
+	background-color:#c30005;
+}
+.btn-upload{background-color:#0a0a0a}
+.btn-continue{background-color:#c30005}
+.btn-continue:hover{background-color:#0a0a0a}
+.product-info .cart .action .btn{font-size:20px; background-color:#c30005; padding:13px 18px 12px; white-space:normal;}
+#button-cart:hover{background-color:#141414}
+#button-confirm{
+	background-color: #c30005;
+    border: medium none;
+    border-radius: 0;
+    color: #FFFFFF;
+    font-family: 'Advent Pro',sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px 18px;
+    text-transform: uppercase;
+	transition:background 0.5s ease 0s;
+	-moz-transition:background 0.5s ease 0s;
+	-webkit-transition:background 0.5s ease 0s;}
+#button-confirm:hover{background-color: #dcdcdc;}	
+.table-responsive {
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: auto;
+  }
+label{font-weight:400; display:inline}
+.modal-dialog{width:1000px}
+.form-control{padding:6px 5px;}
+.btn-group{z-index:102}

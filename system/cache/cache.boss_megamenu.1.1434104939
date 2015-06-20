@@ -1,0 +1,1118 @@
+s:75326:"<nav class="navbar" id="boss_menu" role="navigation">
+				
+		<!-- Mega menu -->
+			<div class="container"><div class="boss-menu"><div class="row"><div class="col-xs-24 col-sm-24 col-md-24">
+			<div class="cs_mega_menu hidden-xs" >
+				<ul class="nav navbar-nav ul_mega_menu">
+								<li class="menu_item level-1 parent dropdown">
+					<a class="title_menu_parent sub_child dropdown-toggle" href="index.php?route=product/category&amp;path=57">
+						<span class="menu-title">MEN<i class="fa fa-caret-down"></i></span>
+						 <i class="fa fa-caret-down"></i>					</a>
+										<div class="options_list dropdown-menu" style="width: 1184px;">
+					<div class="dropdown-menu-inner">					
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18" class="parent">
+																				Laptops &amp; Notebooks									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=46">
+																						Macs											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=38">
+																						test 4											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=37">
+																						test 5											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=39">
+																						test 6											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=40">
+																						test 7											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=45">
+																						Windows											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34" class="parent">
+																				MP3 Players									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=41">
+																						Laptops &amp; Notebooks											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=51">
+																						test 19											</a>
+																					</li>
+																			<li class="sub_category">
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52">
+																						test 20											</a>
+											<div class="sub_menu"><ul><li ><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52_58">test 25</a></li></ul></div>										</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=53">
+																						test 21											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=55">
+																						test 23											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57" class="parent">
+																				Tablets									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=64">
+																						luctus vulputate											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=65">
+																						Maecenas conse											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=63">
+																						nec ante pulvinar											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=54">
+																						test 22											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=24">
+																						Phones &amp; PDAs											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33" class="parent">
+																				Cameras									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=43">
+																						test 11											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=44">
+																						test 12											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=47">
+																						test 15											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=48">
+																						test 16											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=49">
+																						test 17											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=50">
+																						test 18											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25" class="parent">
+																				Components									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=29">
+																						Mice and Trackballs											</a>
+																					</li>
+																			<li class="sub_category">
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28">
+																						Monitors											</a>
+											<div class="sub_menu"><ul><li ><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_35">test 1</a></li><li ><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_36">test 2</a></li></ul></div>										</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=30">
+																						Printers											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=31">
+																						Scanners											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=32">
+																						Web Cameras											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20" class="parent">
+																				Desktops									</a>
+																								
+								<ul class="column category">
+																			<li class="sub_category">
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=61">
+																						consectetur adi											</a>
+											<div class="sub_menu"><ul><li ><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=61_56">test 24</a></li></ul></div>										</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=60">
+																						dolor sit amet											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=59">
+																						Lorem ipsum											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=26">
+																						PC											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=27">
+																						Mac											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 591px; float: left">							
+							<!-- html-->
+								<div class="staticblock"><div class="menu-block-1"><img alt="menu-block" src="http://demo.bossthemes.com/sneaker/image/data/bt_sneaker/img1.png" />
+<h3>Sed quia non numquam eius modi amet incidunt ut labore et amet dolorem lisump</h3>
+
+<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi cotnse quatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil</p>
+</div>
+</div>
+														
+														
+								
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 591px;" ></span>
+												<div class="option" style="width: 591px; float: left">							
+							<!-- html-->
+								<div class="staticblock"><p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur dolorem aquia amet lisump Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat? </p>
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihilItaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur </p></div>
+														
+														
+								
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 591px;" ></span>
+											
+					</div>	
+					</div>
+					<span class="spanOptionList" style="width: 1182px;" ></span>
+										
+				</li>
+								<li class="menu_item level-1 parent dropdown">
+					<a class="title_menu_parent sub_child dropdown-toggle" href="index.php?route=product/category&amp;path=20">
+						<span class="menu-title">Women<i class="fa fa-caret-down"></i></span>
+						 <i class="fa fa-caret-down"></i>					</a>
+										<div class="options_list dropdown-menu" style="width: 790px;">
+					<div class="dropdown-menu-inner">					
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57" class="parent">
+																				Tablets									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=64">
+																						luctus vulputate											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=65">
+																						Maecenas conse											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=63">
+																						nec ante pulvinar											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=54">
+																						test 22											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=24">
+																						Phones &amp; PDAs											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20" class="parent">
+																				Desktops									</a>
+																								
+								<ul class="column category">
+																			<li class="sub_category">
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=61">
+																						consectetur adi											</a>
+											<div class="sub_menu"><ul><li ><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=61_56">test 24</a></li></ul></div>										</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=60">
+																						dolor sit amet											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=59">
+																						Lorem ipsum											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=26">
+																						PC											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=27">
+																						Mac											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33" class="parent">
+																				Cameras									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=43">
+																						test 11											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=44">
+																						test 12											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=47">
+																						test 15											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=48">
+																						test 16											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=49">
+																						test 17											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=50">
+																						test 18											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+														
+							
+															<ul class="column product"><!-- product -->
+																			<li>
+																							<div class="image"><a href="http://localhost:81/princeprincy/index.php?route=product/product&amp;product_id=45"><img src="http://localhost:81/princeprincy/image/cache/data/bt_products/h13-190x190.jpg" alt="Morbi id ante eu sapien hendrerit viverra"/></a></div>																								<div class="rating"><img src="catalog/view/theme/bt_sneaker/image/stars-5.png" alt="1 Review(s)" /><span>1 Review(s)</span></div>
+																								<div class="name"><a href="http://localhost:81/princeprincy/index.php?route=product/product&amp;product_id=45">Morbi id ante eu sapien hendrerit viverra</a></div>
+												<div class="model">Product 18</div>
+												<div class="price">
+																									Rs.2,000																							    </div>
+												<div class="cart"><input type="button" value="Add to Cart" onclick="boss_addToCart('45');" class="btn btn-primary" /></div>
+												<div class="wishlist"><a onclick="boss_addToWishList('45');"><b>&nbsp;</b>Add to Wish List</a></div>
+												<div class="compare"><a onclick="boss_addToCompare('45');"><b>&nbsp;</b>Add to Compare</a></div>
+										</li>
+																	</ul>
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+											
+					</div>	
+					</div>
+					<span class="spanOptionList" style="width: 788px;" ></span>
+										
+				</li>
+								<li class="menu_item level-1 parent dropdown">
+					<a class="title_menu_parent sub_child dropdown-toggle" href="index.php?route=product/category&amp;path=18">
+						<span class="menu-title">Kids<i class="fa fa-caret-down"></i></span>
+						 <i class="fa fa-caret-down"></i>					</a>
+										<div class="options_list dropdown-menu" style="width: 396px;">
+					<div class="dropdown-menu-inner">					
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33" class="parent">
+																				Cameras									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=43">
+																						test 11											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=44">
+																						test 12											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=47">
+																						test 15											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=48">
+																						test 16											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=49">
+																						test 17											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=50">
+																						test 18											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25" class="parent">
+																				Components									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=29">
+																						Mice and Trackballs											</a>
+																					</li>
+																			<li class="sub_category">
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28">
+																						Monitors											</a>
+											<div class="sub_menu"><ul><li ><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_35">test 1</a></li><li ><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_36">test 2</a></li></ul></div>										</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=30">
+																						Printers											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=31">
+																						Scanners											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=32">
+																						Web Cameras											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34" class="parent">
+																				MP3 Players									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=41">
+																						Laptops &amp; Notebooks											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=51">
+																						test 19											</a>
+																					</li>
+																			<li class="sub_category">
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52">
+																						test 20											</a>
+											<div class="sub_menu"><ul><li ><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52_58">test 25</a></li></ul></div>										</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=53">
+																						test 21											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=55">
+																						test 23											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18" class="parent">
+																				Laptops &amp; Notebooks									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=46">
+																						Macs											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=38">
+																						test 4											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=37">
+																						test 5											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=39">
+																						test 6											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=40">
+																						test 7											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=45">
+																						Windows											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+											
+					</div>	
+					</div>
+					<span class="spanOptionList" style="width: 394px;" ></span>
+										
+				</li>
+								<li class="menu_item level-1 parent dropdown">
+					<a class="title_menu_parent sub_child dropdown-toggle" href="index.php?route=product/category&amp;path=20">
+						<span class="menu-title">Custom<i class="fa fa-caret-down"></i></span>
+						 <i class="fa fa-caret-down"></i>					</a>
+										<div class="options_list dropdown-menu" style="width: 1184px;">
+					<div class="dropdown-menu-inner">					
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+														
+							
+															<ul class="column product"><!-- product -->
+																			<li>
+																							<div class="image"><a href="http://localhost:81/princeprincy/index.php?route=product/product&amp;product_id=33"><img src="http://localhost:81/princeprincy/image/cache/data/bt_products/18-190x190.JPG" alt="Nulla dictum sem vitae nisl molestie"/></a></div>																								<div class="name"><a href="http://localhost:81/princeprincy/index.php?route=product/product&amp;product_id=33">Nulla dictum sem vitae nisl molestie</a></div>
+												<div class="model">Product 6</div>
+												<div class="price">
+																									<span class="price-old">Rs.200</span>
+													<span class="price-new">Rs.123</span>
+																							    </div>
+												<div class="cart"><input type="button" value="Add to Cart" onclick="boss_addToCart('33');" class="btn btn-primary" /></div>
+												<div class="wishlist"><a onclick="boss_addToWishList('33');"><b>&nbsp;</b>Add to Wish List</a></div>
+												<div class="compare"><a onclick="boss_addToCompare('33');"><b>&nbsp;</b>Add to Compare</a></div>
+										</li>
+																	</ul>
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33" class="parent">
+																				Cameras									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=43">
+																						test 11											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=44">
+																						test 12											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=47">
+																						test 15											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=48">
+																						test 16											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=49">
+																						test 17											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=50">
+																						test 18											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18" class="parent">
+																				Laptops &amp; Notebooks									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=46">
+																						Macs											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=38">
+																						test 4											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=37">
+																						test 5											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=39">
+																						test 6											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=40">
+																						test 7											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=45">
+																						Windows											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+														
+							<!-- category -->
+							
+																									<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34" class="parent">
+																				MP3 Players									</a>
+																								
+								<ul class="column category">
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=41">
+																						Laptops &amp; Notebooks											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=51">
+																						test 19											</a>
+																					</li>
+																			<li class="sub_category">
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52">
+																						test 20											</a>
+											<div class="sub_menu"><ul><li ><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52_58">test 25</a></li></ul></div>										</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=53">
+																						test 21											</a>
+																					</li>
+																			<li >
+											<a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=55">
+																						test 23											</a>
+																					</li>
+																	</ul>
+							
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 394px; float: left">							
+							<!-- html-->
+								<div class="staticblock"><h2>vel illum qui dolorem eum quo</h2>
+
+<p><img alt="canon" src="http://demo.bossthemes.com/sneaker/image/data/bt_sneaker/img2.png" title="video" /></p>
+
+<h3>Neque porro quisquam est qui ipsum quia dolor sit amet</h3>
+
+<p>Consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+
+<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur</p>
+</div>
+														
+														
+								
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 394px;" ></span>
+											
+					</div>	
+					</div>
+					<span class="spanOptionList" style="width: 1182px;" ></span>
+										
+				</li>
+								<li class="menu_item level-1 parent dropdown">
+					<a class="title_menu_parent sub_child dropdown-toggle" href="index.php?route=product/manufacturer">
+						<span class="menu-title">BRANDS<i class="fa fa-caret-down"></i></span>
+						 <i class="fa fa-caret-down"></i>					</a>
+										<div class="options_list dropdown-menu" style="width: 1184px;">
+					<div class="dropdown-menu-inner">					
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+							<!-- manufacturer -->
+								<ul class="column manufacturer">
+																			<li><a href="http://localhost:81/princeprincy/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">
+											<img src="http://localhost:81/princeprincy/image/cache/data/bt_sneaker/static_img_1-120x60.png" alt="Apple"/>																					</a></li>
+																	</ul>
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+							<!-- manufacturer -->
+								<ul class="column manufacturer">
+																			<li><a href="http://localhost:81/princeprincy/index.php?route=product/manufacturer/info&amp;manufacturer_id=9">
+											<img src="http://localhost:81/princeprincy/image/cache/data/bt_sneaker/static_img_2-120x60.png" alt="Canon"/>																					</a></li>
+																	</ul>
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+							<!-- manufacturer -->
+								<ul class="column manufacturer">
+																			<li><a href="http://localhost:81/princeprincy/index.php?route=product/manufacturer/info&amp;manufacturer_id=7">
+											<img src="http://localhost:81/princeprincy/image/cache/data/bt_sneaker/static_img_3-120x60.png" alt="Hewlett-Packard"/>																					</a></li>
+																	</ul>
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+							<!-- manufacturer -->
+								<ul class="column manufacturer">
+																			<li><a href="http://localhost:81/princeprincy/index.php?route=product/manufacturer/info&amp;manufacturer_id=5">
+											<img src="http://localhost:81/princeprincy/image/cache/data/bt_sneaker/static_img_4-120x60.png" alt="HTC"/>																					</a></li>
+																	</ul>
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+							<!-- manufacturer -->
+								<ul class="column manufacturer">
+																			<li><a href="http://localhost:81/princeprincy/index.php?route=product/manufacturer/info&amp;manufacturer_id=6">
+											<img src="http://localhost:81/princeprincy/image/cache/data/bt_sneaker/static_img_5-120x60.png" alt="Palm"/>																					</a></li>
+																	</ul>
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+								
+							<!-- manufacturer -->
+								<ul class="column manufacturer">
+																			<li><a href="http://localhost:81/princeprincy/index.php?route=product/manufacturer/info&amp;manufacturer_id=10">
+											<img src="http://localhost:81/princeprincy/image/cache/data/bt_sneaker/manufacture_03-120x60.jpg" alt="Sony"/>																					</a></li>
+																	</ul>
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+											
+					</div>	
+					</div>
+					<span class="spanOptionList" style="width: 1182px;" ></span>
+										
+				</li>
+								<li class="menu_item level-1 parent dropdown">
+					<a class="title_menu_parent sub_child dropdown-toggle" href="index.php?route=information/information&amp;information_id=4">
+						<span class="menu-title">Information<i class="fa fa-caret-down"></i></span>
+						 <i class="fa fa-caret-down"></i>					</a>
+										<div class="options_list dropdown-menu" style="width: 199px;">
+					<div class="dropdown-menu-inner">					
+												<div class="option" style="width: 197px; float: left">							
+														
+														
+							<!-- information -->
+								<ul class="column informations">
+																		<li><a href="http://localhost:81/princeprincy/index.php?route=information/information&amp;information_id=4">About Us</a></li>
+																		<li><a href="http://localhost:81/princeprincy/index.php?route=information/information&amp;information_id=6">Delivery Information</a></li>
+																		<li><a href="http://localhost:81/princeprincy/index.php?route=information/information&amp;information_id=3">Privacy Policy</a></li>
+																		<li><a href="http://localhost:81/princeprincy/index.php?route=information/information&amp;information_id=5">Terms &amp; Conditions</a></li>
+																	</ul>
+								
+														
+														
+							
+														
+						</div>
+						<span class="spanOption" style="width: 197px;" ></span>
+											
+					</div>	
+					</div>
+					<span class="spanOptionList" style="width: 197px;" ></span>
+										
+				</li>
+								<li class="menu_item level-1 parent dropdown">
+					<a class="title_menu_parent dropdown-toggle" href="?route=bossblog/bossblog">
+						<span class="menu-title">Blog<i class="fa fa-caret-down"></i></span>
+											</a>
+										
+				</li>
+								</ul>
+			</div></div>			
+				
+		
+		<div id="megamenu-responsive" class="visible-xs col-xs-24 navbar" ><!-- Menu Responsive-->
+		<div class="navbar navbar-inverse">
+			<div id="megamenu-responsive-root">
+				<div class="navbar-header"><a class="navbar-toggle">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</a>
+					<b>Navigation</b>
+				</div>	
+				<div class="root">
+					<ul>
+											<li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20">Desktops</a>
+						  						
+														<ul>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_61">consectetur adi (0)</a>
+							  <ul><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_61">consectetur adi (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=61_56">test 24</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_60">dolor sit amet (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_59">Lorem ipsum (1)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_26">PC (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_27">Mac (1)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_60">dolor sit amet (0)</a>
+							  <ul><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_61">consectetur adi (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=61_56">test 24</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_60">dolor sit amet (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_59">Lorem ipsum (1)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_26">PC (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_27">Mac (1)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_59">Lorem ipsum (1)</a>
+							  <ul><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_61">consectetur adi (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=61_56">test 24</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_60">dolor sit amet (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_59">Lorem ipsum (1)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_26">PC (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_27">Mac (1)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_26">PC (0)</a>
+							  <ul><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_61">consectetur adi (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=61_56">test 24</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_60">dolor sit amet (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_59">Lorem ipsum (1)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_26">PC (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_27">Mac (1)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_27">Mac (1)</a>
+							  <ul><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_61">consectetur adi (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=61_56">test 24</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_60">dolor sit amet (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_59">Lorem ipsum (1)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_26">PC (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=20_27">Mac (1)</a></li></ul>							  </li>
+							  							  							</ul>
+													 
+						  						</li>
+											<li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18">Laptops &amp; Notebooks</a>
+						  						
+														<ul>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_46">Macs (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_46">Macs (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_38">test 4 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_37">test 5 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_39">test 6 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_40">test 7 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_45">Windows (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_38">test 4 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_46">Macs (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_38">test 4 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_37">test 5 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_39">test 6 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_40">test 7 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_45">Windows (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_37">test 5 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_46">Macs (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_38">test 4 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_37">test 5 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_39">test 6 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_40">test 7 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_45">Windows (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_39">test 6 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_46">Macs (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_38">test 4 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_37">test 5 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_39">test 6 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_40">test 7 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_45">Windows (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_40">test 7 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_46">Macs (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_38">test 4 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_37">test 5 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_39">test 6 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_40">test 7 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_45">Windows (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_45">Windows (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_46">Macs (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_38">test 4 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_37">test 5 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_39">test 6 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_40">test 7 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=18_45">Windows (0)</a></li></ul>							  </li>
+							  							  							</ul>
+													 
+						  						</li>
+											<li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25">Components</a>
+						  						
+														<ul>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_29">Mice and Trackballs (1)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_29">Mice and Trackballs (1)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_28">Monitors (2)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_35">test 1</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_36">test 2</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_30">Printers (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_31">Scanners (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_32">Web Cameras (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_28">Monitors (2)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_29">Mice and Trackballs (1)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_28">Monitors (2)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_35">test 1</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_36">test 2</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_30">Printers (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_31">Scanners (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_32">Web Cameras (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_30">Printers (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_29">Mice and Trackballs (1)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_28">Monitors (2)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_35">test 1</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_36">test 2</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_30">Printers (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_31">Scanners (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_32">Web Cameras (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_31">Scanners (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_29">Mice and Trackballs (1)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_28">Monitors (2)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_35">test 1</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_36">test 2</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_30">Printers (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_31">Scanners (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_32">Web Cameras (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_32">Web Cameras (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_29">Mice and Trackballs (1)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_28">Monitors (2)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_35">test 1</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=28_36">test 2</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_30">Printers (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_31">Scanners (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=25_32">Web Cameras (0)</a></li></ul>							  </li>
+							  							  							</ul>
+													 
+						  						</li>
+											<li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57">Tablets</a>
+						  						
+														<ul>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_64">luctus vulputate (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_64">luctus vulputate (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_65">Maecenas conse (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_63">nec ante pulvinar (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_54">test 22 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_24">Phones &amp; PDAs (3)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_65">Maecenas conse (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_64">luctus vulputate (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_65">Maecenas conse (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_63">nec ante pulvinar (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_54">test 22 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_24">Phones &amp; PDAs (3)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_63">nec ante pulvinar (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_64">luctus vulputate (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_65">Maecenas conse (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_63">nec ante pulvinar (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_54">test 22 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_24">Phones &amp; PDAs (3)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_54">test 22 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_64">luctus vulputate (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_65">Maecenas conse (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_63">nec ante pulvinar (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_54">test 22 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_24">Phones &amp; PDAs (3)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_24">Phones &amp; PDAs (3)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_64">luctus vulputate (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_65">Maecenas conse (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_63">nec ante pulvinar (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_54">test 22 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=57_24">Phones &amp; PDAs (3)</a></li></ul>							  </li>
+							  							  							</ul>
+													 
+						  						</li>
+											<li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=17">Software</a>
+						  						
+														<ul>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=17_42">consectetur adig (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=17_42">consectetur adig (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=17_62">Quisque in eros (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=17_62">Quisque in eros (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=17_42">consectetur adig (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=17_62">Quisque in eros (0)</a></li></ul>							  </li>
+							  							  							</ul>
+													 
+						  						</li>
+											<li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33">Cameras</a>
+						  						
+														<ul>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_43">test 11 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_43">test 11 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_44">test 12 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_47">test 15 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_48">test 16 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_49">test 17 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_50">test 18 (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_44">test 12 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_43">test 11 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_44">test 12 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_47">test 15 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_48">test 16 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_49">test 17 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_50">test 18 (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_47">test 15 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_43">test 11 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_44">test 12 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_47">test 15 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_48">test 16 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_49">test 17 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_50">test 18 (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_48">test 16 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_43">test 11 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_44">test 12 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_47">test 15 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_48">test 16 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_49">test 17 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_50">test 18 (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_49">test 17 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_43">test 11 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_44">test 12 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_47">test 15 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_48">test 16 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_49">test 17 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_50">test 18 (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_50">test 18 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_43">test 11 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_44">test 12 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_47">test 15 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_48">test 16 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_49">test 17 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=33_50">test 18 (0)</a></li></ul>							  </li>
+							  							  							</ul>
+													 
+						  						</li>
+											<li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34">MP3 Players</a>
+						  						
+														<ul>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_41">Laptops &amp; Notebooks (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_41">Laptops &amp; Notebooks (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_51">test 19 (0)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_52">test 20 (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52_58">test 25</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_53">test 21 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_55">test 23 (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_51">test 19 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_41">Laptops &amp; Notebooks (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_51">test 19 (0)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_52">test 20 (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52_58">test 25</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_53">test 21 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_55">test 23 (0)</a></li></ul>							  </li>
+							  							  							</ul>
+														<ul>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_52">test 20 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_41">Laptops &amp; Notebooks (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_51">test 19 (0)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_52">test 20 (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52_58">test 25</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_53">test 21 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_55">test 23 (0)</a></li></ul>							  </li>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_53">test 21 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_41">Laptops &amp; Notebooks (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_51">test 19 (0)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_52">test 20 (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52_58">test 25</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_53">test 21 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_55">test 23 (0)</a></li></ul>							  </li>
+							  							  							</ul>
+														<ul>
+							  							  							  							  <li class="parent">
+							  <a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_55">test 23 (0)</a>
+							  <ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_41">Laptops &amp; Notebooks (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_51">test 19 (0)</a></li><li class="parent"><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_52">test 20 (0)</a><ul><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=52_58">test 25</a></li></ul></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_53">test 21 (0)</a></li><li><a href="http://localhost:81/princeprincy/index.php?route=product/category&amp;path=34_55">test 23 (0)</a></li></ul>							  </li>
+							  							  							  							  							</ul>
+													 
+						  						</li>
+										
+					<li><a href="index.php?route=bossblog/bossblog">Blog</a></li>
+					</ul>
+				</div>
+			</div>
+			<script type="text/javascript">
+				$('document').ready(function(){
+					$('#megamenu-responsive-root li.parent a').after('<p>+</p>');
+					
+					$('a.navbar-toggle').click(function(){
+						$('.root').toggleClass('open');
+					});
+					
+					$('#megamenu-responsive-root li.parent > p').click(function(){
+
+						if ($(this).text() == '+'){
+							$(this).parent('li').children('ul').slideDown(300);
+							$(this).text('-');
+						}else{
+							$(this).parent('li').children('ul').slideUp(300);
+							$(this).text('+');
+						}  
+						
+					});
+				});
+			</script>
+		</div>
+		</div>
+	</div></div></div>	
+	</nav>
+";

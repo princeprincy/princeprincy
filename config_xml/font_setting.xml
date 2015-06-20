@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items_setting>
+	<general>
+		<item>
+			<frontend>true</frontend>
+			<text>General Fonts</text>
+			<style>g_fstyle</style>
+			<size>g_fsize</size>
+			<weight>g_fweight</weight>
+			<transform>g_ftrans</transform>
+			<class_name>body,a, div.jGrowl div.jGrowl-notification div.jGrowl-message h3, #search-form #search-form-bot .input_key input</class_name>
+		</item>
+		<item>
+			<frontend>true</frontend>
+			<text>Button</text>
+			<style>g_addcart_fstyle</style>
+			<size>g_addcart_fsize</size>
+			<weight>g_addcart_fweight</weight>
+			<transform>g_addcart_ftrans</transform>
+			<class_name>a.sft_quickshop_icon, .btn, .compare a, .wishlist a, #button-confirm, .prod-load-more a, .block-homepage .block-1 .bt-more a</class_name>
+		</item>
+	</general>
+	<header>
+		<item>
+			<frontend>true</frontend>
+			<text>Header Fonts 1</text>
+			<style>h_fstyle_1</style>
+			<size>h_fsize_1</size>
+			<weight>h_fweight_1</weight>
+			<transform>h_ftrans_1</transform>
+			<class_name>#boss-login > ul > li > span > a, #header #search a, #boss_cart .heading a, #currency button.dropdown-toggle</class_name>
+		</item>		
+	</header>
+	<footer>
+		<item>
+			<frontend>true</frontend>
+			<text>Footer Fonts 1</text>
+			<style>f_fstyle_1</style>
+			<size>f_fsize_1</size>
+			<weight>f_fweight_1</weight>
+			<transform>f_ftrans_1</transform>
+			<class_name>#footer .column ul li a, #footer-block-friends a, #powered, #powered a</class_name>
+		</item>
+		<item>
+			<frontend>true</frontend>
+			<text>Footer Fonts 2</text>
+			<style>f_fstyle_2</style>
+			<size>f_fsize_2</size>
+			<weight>f_fweight_2</weight>
+			<transform>f_ftrans_2</transform>
+			<class_name>#footer h3, #footer_bottom .footer-link ul li a</class_name>
+		</item>
+	</footer>
+	<menu>
+		<item>
+			<frontend>true</frontend>
+			<text>Menu Fonts 1</text>
+			<style>m_fstyle_1</style>
+			<size>m_fsize_1</size>
+			<weight>m_fweight_1</weight>
+			<transform>m_ftrans_1</transform>
+			<class_name>.menu-title</class_name>
+		</item>
+		<item>
+			<frontend>false</frontend>
+			<text>Menu Fonts 2</text>
+			<style>m_fstyle_2</style>
+			<size>m_fsize_2</size>
+			<weight>m_fweight_2</weight>
+			<transform>m_ftrans_2</transform>
+			<class_name>.dropdown-menu-inner .option a.parent</class_name>
+		</item>
+		<item>
+			<frontend>false</frontend>
+			<text>Menu Fonts 3</text>
+			<style>m_fstyle_3</style>
+			<size>m_fsize_3</size>
+			<weight>m_fweight_3</weight>
+			<transform>m_ftrans_3</transform>
+			<class_name>.dropdown-menu-inner .option .staticblock h3, .dropdown-menu-inner .option ul li a, .dropdown-menu-inner .option .staticblock p</class_name>
+		</item>
+	</menu>
+	<product>
+		<item>
+			<frontend>true</frontend>
+			<text>Product Name</text>
+			<style>p_name_fstyle</style>
+			<size>p_name_fsize</size>
+			<weight>p_name_fweight</weight>
+			<transform>p_name_ftrans</transform>
+			<class_name>.name a, .mini-cart-info td.name > span, .cart-info table.table tbody td.name > span, .boss_article-item h2 a, .block .article-title a, .block .comment-title a</class_name>
+		</item>
+		<item>
+			<frontend>false</frontend>
+			<text>Product Description</text>
+			<style>p_des_fstyle</style>
+			<size>p_des_fsize</size>
+			<weight>p_des_fweight</weight>
+			<transform>p_des_ftrans</transform>
+			<class_name>.product-list .description</class_name>
+		</item>
+		<item>
+			<frontend>false</frontend>
+			<text>Product Price</text>
+			<style>p_price_fstyle</style>
+			<size>p_price_fsize</size>
+			<weight>p_price_fweight</weight>
+			<transform>p_price_ftrans</transform>
+			<class_name>div.price, .price b, .price-new, .price-old, .price s, .product-info .cart .price_info span.price, .mini-cart-total td, .cart-total td</class_name>
+		</item>
+	</product>
+	<title>
+		<item>
+			<frontend>true</frontend>
+			<text>Page Title</text>
+			<style>t_page_fstyle</style>
+			<size>t_page_fsize</size>
+			<weight>t_page_fweight</weight>
+			<transform>t_page_ftrans</transform>
+			<class_name>h1, h2, h3, .tags b, div.jGrowl div.jGrowl-notification div.jGrowl-header</class_name>
+		</item>
+		<item>
+			<frontend>true</frontend>
+			<text>Block Title</text>
+			<style>t_block_fstyle</style>
+			<size>t_block_fsize</size>
+			<weight>t_block_fweight</weight>
+			<transform>t_block_ftrans</transform>
+			<class_name>.boss_homefilter_tabs .tabs-headings a, .htabs a, .box-heading, .checkout-heading a, .box-title, .cart-module h2, h2.ta-header, .boss-featured .box-heading, .cart-info table thead tr td, .wishlist-info table thead tr td, .checkout-product table.table thead td, .checkout-heading, .compare-info tr td:first-child</class_name>
+		</item>
+		<item>
+			<frontend>false</frontend>
+			<text>Breadcrumb</text>
+			<style>t_bread_fstyle</style>
+			<size>t_bread_fsize</size>
+			<weight>t_bread_fweight</weight>
+			<transform>t_bread_ftrans</transform>
+			<class_name>.breadcrumb a</class_name>
+		</item>
+	</title>
+</items_setting>

@@ -1,0 +1,128 @@
+
+div.jGrowl {
+	z-index: 			9999;
+	color: 				#fff;
+	font-size: 			12px;
+}
+
+/** Normal Style Positions **/
+div.jGrowl {
+	position:			absolute;
+}
+
+body > div.jGrowl {
+	position:			fixed;
+}
+
+div.jGrowl.top-left {
+	left: 				0px;
+	top: 				0px;
+}
+
+div.jGrowl.top-right {
+	right: 				0px;
+	top: 				0px;
+}
+
+div.jGrowl.bottom-left {
+	left: 				0px;
+	bottom:				0px;
+}
+
+div.jGrowl.bottom-right {
+	right: 				0px;
+	bottom: 			0px;
+}
+
+div.jGrowl.center {
+	top: 				0px;
+	width: 				50%;
+	left: 				25%;
+}
+
+/** Cross Browser Styling **/
+div.center div.jGrowl-notification, div.center div.jGrowl-closer {
+	margin-left: 		auto;
+	margin-right: 		auto;
+}
+
+div.jGrowl div.jGrowl-notification, div.jGrowl div.jGrowl-closer {
+	zoom: 					1;
+	width: 					295px;
+	padding: 				10px;
+	margin-top: 			5px;
+	margin-bottom: 			5px;
+	font-size: 				1em;
+	text-align: 			left;
+	display: 				none;
+	-moz-border-radius: 	2px;
+	-webkit-border-radius:	2px;
+	border-radius:			2px;
+	
+	border: 				1px solid #B3B3B3;
+    overflow: 				hidden;
+    padding: 				10px;
+	background:				#fff
+}
+
+div.jGrowl div.jGrowl-notification {
+	min-height: 			40px;
+}
+
+div.jGrowl div.jGrowl-notification,
+div.jGrowl div.jGrowl-closer {
+	margin: 				10px;
+}
+
+div.jGrowl div.jGrowl-notification div.jGrowl-header {
+	background:				url(../../image/success.png) no-repeat 10px  ;
+	padding-left:			20px;
+	font-size:				13px;	
+	font-weight:			700;
+	padding:				9px 0 9px 45px;
+	margin: 				-8px 0 0;
+	font-family: 'Advent Pro', sans-serif;
+	text-transform:uppercase;
+}
+div.jGrowl div.jGrowl-notification div.jGrowl-message img { 
+	float:					left; 
+	margin-right:			15px
+}
+div.jGrowl div.jGrowl-notification div.jGrowl-message h3 {
+	font-family: arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22px;
+    text-transform: none;
+}
+div.jGrowl div.jGrowl-notification div.jGrowl-message h3 a{color:#c30005}
+div.jGrowl div.jGrowl-notification div.jGrowl-close {
+	background: url("../../image/remove.png") no-repeat scroll 0 0;
+    cursor: pointer;
+    display: inline-block;
+    float: right;
+    font-size: 1em;
+    font-weight: bold;
+    height: 24px;
+    text-indent: -9999px;
+    width: 24px;
+    z-index: 99;
+}
+
+div.jGrowl div.jGrowl-closer {
+	padding-top: 			4px;
+	padding-bottom: 		4px;
+	cursor: 				pointer;
+	font-size:				.9em;
+	font-weight: 			bold;
+	text-align: 			center;
+	color:#040404;
+	text-transform:uppercase;
+}
+div.jGrowl div.jGrowl-closer:hover{color:#c35000}
+/** Hide jGrowl when printing **/
+@media print {
+	div.jGrowl {
+		display: 			none;
+	}
+}

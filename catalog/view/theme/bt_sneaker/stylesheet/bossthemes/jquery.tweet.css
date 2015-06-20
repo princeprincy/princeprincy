@@ -1,0 +1,43 @@
+.tweet,
+.query {
+}
+.tweet_list {
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	border-radius: 0.5em;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow-y: hidden;
+}
+
+.tweet_list li {
+	
+	padding-top:4px;
+	list-style-type: none;
+	
+}
+.tweet_list li + li{
+	margin-top:14px;
+}
+.tweet_list li a {
+}
+
+.tweet_list .tweet_even {
+}
+
+.tweet_list .tweet_avatar {
+	padding-right:10px; float: left;
+	
+}
+
+.tweet_list .tweet_avatar img:hover {
+	transform: scale(1.2);
+-ms-transform: scale(1.2); /* IE 9 */
+-webkit-transform: scale(1.2); /* Safari and Chrome */
+	
+}
+.tweetexclamation_after{
+	
+	margin-top:7px;
+}
